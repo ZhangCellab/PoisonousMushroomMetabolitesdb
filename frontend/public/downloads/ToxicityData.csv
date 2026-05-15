@@ -1,0 +1,916 @@
+﻿Compound name,Toxicity Type,Toxicity Value or Description,Reference
+Phalloin,General Toxicity,"LD50 = 1.5 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Phalloin,Cytotoxicity,"EC50 > 30.0 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+Phalloin,Cytotoxicity,"EC50 = 22.81 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+Phalloin,Cytotoxicity,"EC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+Phalloin,Cytotoxicity,"EC50 > 30.0 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+Phalloin,Hepatotoxicity,"Phalloin belongs to a class of toxins called phallotoxins, they are only toxic to mammals if parenterically administered since phallotoxins are not absorbed through the gastrointestinal tract. The major in vivo toxic effect produced by intraperitoneal administration of phallotoxin affects the liver.",DOI: 10.1016/j.fct.2015.09.008
+Phalloidin,General Toxicity,"LD50 = 2 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Phalloidin,General Toxicity,"Lethal dose > 10 mg/kg (-, Mammal)",DOI: 10.1007/BF00297076
+Phalloidin,General Toxicity,"LDLo = 1 mg/kg (-, Rattus norvegicus)",DOI: 10.1016/0041-0101(72)90058-X
+Phalloidin,General Toxicity,"LD50 = 2 mg/kg (-, Mus musculus)",PMID: 4679185
+Phalloidin,Cytotoxicity,"EC50 > 30.0 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+Phalloidin,Cytotoxicity,"EC50 > 30.0 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+Phalloidin,Cytotoxicity,"EC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+Phalloidin,Cytotoxicity,"EC50 > 30.0 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+Phalloidin,Hepatotoxicity,"Phalloidin belongs to a class of toxins called phallotoxins, they are only toxic to mammals if parenterically administered since phallotoxins are not absorbed through the gastrointestinal tract. The major in vivo toxic effect produced by intraperitoneal administration of phallotoxin affects the liver.",DOI: 10.1016/j.fct.2015.09.008
+Phallisin,General Toxicity,"LD50 = 2 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Phallisin,General Toxicity,"LD50 = 2.5 mg/kg (-, Mus musculus)",DOI: 10.1016/S0300-483X(00)00393-0
+Phallisin,General Toxicity,"LD50 = 3 mg/kg (-, Mus musculus)",DOI: 10.3109/10409237809149870
+Phallisin,Hepatotoxicity,"Phallisin belongs to a class of toxins called phallotoxins, they are only toxic to mammals if parenterically administered since phallotoxins are not absorbed through the gastrointestinal tract. The major in vivo toxic effect produced by intraperitoneal administration of phallotoxin affects the liver.",DOI: 10.1016/j.fct.2015.09.008
+Phallacin,General Toxicity,"LD50 = 1.5 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Phallacin,General Toxicity,"LD50 = 2 mg/kg (-, Mus musculus)",DOI: 10.3109/10409237809149870
+Phallacin,Hepatotoxicity,"Phallacin belongs to a class of toxins called phallotoxins, they are only toxic to mammals if parenterically administered since phallotoxins are not absorbed through the gastrointestinal tract. The major in vivo toxic effect produced by intraperitoneal administration of phallotoxin affects the liver.",DOI: 10.1016/j.fct.2015.09.008
+Phallacidin,General Toxicity,"LD50 = 1.5 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Phallacidin,Hepatotoxicity,"Phallacidin belongs to a class of toxins called phallotoxins, they are only toxic to mammals if parenterically administered since phallotoxins are not absorbed through the gastrointestinal tract. The major in vivo toxic effect produced by intraperitoneal administration of phallotoxin affects the liver.",DOI: 10.1016/j.fct.2015.09.008
+Phallisacin,General Toxicity,"LD50 = 4.5 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Phallisacin,General Toxicity,"LD50 = 5 mg/kg (-, Mus musculus)",DOI: 10.3109/10409237809149870
+Phallisacin,Hepatotoxicity,"Phallisacin belongs to a class of toxins called phallotoxins, they are only toxic to mammals if parenterically administered since phallotoxins are not absorbed through the gastrointestinal tract. The major in vivo toxic effect produced by intraperitoneal administration of phallotoxin affects the liver.",DOI: 10.1016/j.fct.2015.09.008
+Phallin B,General Toxicity,"LD50 = 15 mg/kg (Oral, Mouse)",DOI: 10.1002/jlac.19667000120
+Prophalloin,General Toxicity,"LD50 > 20 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Prophalloin,General Toxicity,"LD50 > 100 mg/kg (-, Mouse)",DOI: 10.3109/10409237809149870
+Prophalloin,Hepatotoxicity,"Prophalloin belongs to a class of toxins called phallotoxins, they are only toxic to mammals if parenterically administered since phallotoxins are not absorbed through the gastrointestinal tract. The major in vivo toxic effect produced by intraperitoneal administration of phallotoxin affects the liver.",DOI: 10.1016/j.fct.2015.09.008
+α-Amanitin,General Toxicity,"LD50 = 0.3 mg/kg (Intraperitoneal, Mouse)",DOI: 10.1111/j.1399-3011.1983.tb02093.x
+α-Amanitin,General Toxicity,"LD50 = 0.25 mg/kg (Intraperitoneal, Balb/c mice)",DOI: 10.1016/j.toxicon.2017.07.005
+α-Amanitin,General Toxicity,"LD50 = 4.0 mg/kg (Intraperitoneal, Rat)",DOI: 10.3109/10409237809149870
+α-Amanitin,General Toxicity,"LD50 = 0.002 mg/kg (Intraperitoneal, Mice)",DOI: 10.3109/10409237809149870
+α-Amanitin,General Toxicity,"LD50 = 0.01 mg/kg (Intraperitoneal, Rat)",DOI: 10.3109/10409237809149870
+α-Amanitin,General Toxicity,"LD50 = 0.1 mg/kg ( Intravenous, Dog)",DOI: 10.3109/10409237809149870
+α-Amanitin,Cytotoxicity,"EC50 = 1.47 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+α-Amanitin,Cytotoxicity,"EC50 = 0.26 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+α-Amanitin,Cytotoxicity,"EC50 = 1.57 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+α-Amanitin,Cytotoxicity,"EC50 = 1.32 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+α-Amanitin,Cytotoxicity,"IC50 = 0.5 μM (MTT, CHO)",DOI: 10.1021/acs.jmedchem.1c02226
+α-Amanitin,Cytotoxicity,"IC50 = 0.43 μM (MTT, HEK293)",DOI: 10.1021/acs.jmedchem.1c02226
+α-Amanitin,Cytotoxicity,"IC50 = 4.0 μM (MTT, HeLa)",DOI: 10.1021/acs.jmedchem.1c02226
+α-Amanitin,Cytotoxicity,"IC50 = 2.1 μM (MTT, HepG2)",DOI: 10.1021/acs.jmedchem.1c02226
+α-Amanitin,Cytotoxicity,EC50 = 5.2 × 10-9 M (HEK-293-OATP1B3),DOI: 10.1021/jacs.1c06565
+α-Amanitin,Cytotoxicity,EC50 = 2.1 × 10⁻7 M (HEK-293-OATP1B3),DOI: 10.1021/jacs.1c06565
+α-Amanitin,Nephrotoxicity,"α-Amanitin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+α-Amanitin,Hepatotoxicity,"α-Amanitin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+α-Amanitin,Other Toxicity,"α-Amanitin doses investigated with the comet assay caused increased level of DNA damage in cells (genotoxic effect). The observed increase of the frequency of structural chromosome aberrations for two tested α-amanitin doses(0.1 mg/kg, 0.15 mg/kg) may point to the clastogenic activity of this toxin. The genotoxic effect induced by α-amanitin in mammalian cells can result in genome instability and its functional consequences.",DOI: 10.1016/j.toxicon.2017.07.005
+β-Amanitin,General Toxicity,"LD50 = 0.5 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+β-Amanitin,General Toxicity,"LD50 = 0.4 mg/kg (-, Mus musculus)",DOI: 10.1056/NEJM196308012690501
+β-Amanitin,Cytotoxicity,"EC50 > 30.0 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+β-Amanitin,Cytotoxicity,"EC50 = 22.76 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+β-Amanitin,Cytotoxicity,"EC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+β-Amanitin,Cytotoxicity,"EC50 > 30.0 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+β-Amanitin,Nephrotoxicity,"β-Amanitin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+β-Amanitin,Hepatotoxicity,"β-Amanitin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+γ-Amanitin,General Toxicity,"LD50 = 0.2-0.5 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+γ-Amanitin,General Toxicity,"LD50 = 0.2 mg/kg (-, Mus musculus)",DOI: 10.3109/10409237809149870
+γ-Amanitin,Nephrotoxicity,"γ-Amanitin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+γ-Amanitin,Hepatotoxicity,"γ-Amanitin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+ε-Amanitin,General Toxicity,LD50 = 0.3-0.6 mg/kg (Mouse),DOI: 10.1201/9780203908969
+ε-Amanitin,Nephrotoxicity,"ε-Amanitin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+ε-Amanitin,Hepatotoxicity,"ε-Amanitin belongs to a class of toxins called amatoxins. The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Amanin,General Toxicity,"LD50 = 0.5 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Amanin,Nephrotoxicity,"Amanin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Amanin,Hepatotoxicity,"Amanin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Amaninamide,General Toxicity,"LD50 = 0.5 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Amaninamide,Nephrotoxicity,"Amaninamide belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Amaninamide,Hepatotoxicity,"Amaninamide belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Amanullin,General Toxicity,"LD50 > 20 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Amanullin,General Toxicity,"LD50 > 20 mg/kg (-, Mus musculus)",DOI: 10.3109/10409237809149870
+Amanullin,Nephrotoxicity,"Amanullin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Amanullin,Hepatotoxicity,"Amanullin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Amanullinic acid,General Toxicity,"LD50 > 20 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Amanullinic acid,General Toxicity,"LD50 > 20 mg/kg (-, Mus musculus)",DOI: 10.3109/10409237809149870
+Amanullinic acid,Nephrotoxicity,"Amanullinic acid belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Amanullinic acid,Hepatotoxicity,"Amanullinic acid belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Proamanullin,General Toxicity,"LD50 > 20 mg/kg (-, Mouse)",DOI: 10.1201/9780203908969
+Proamanullin,General Toxicity,"LD50 > 20 mg/kg (-, Mus musculus)",DOI: 10.3109/10409237809149870
+Proamanullin,Nephrotoxicity,"Proamanullin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Proamanullin,Hepatotoxicity,"Proamanullin belongs to a class of toxins called amatoxins.The amatoxins cause necrosis of the liver, also partly in the kidney, with the cellular changes causing the fragmentation and segregation of all nuclear components.The most severe effects are toxic hepatitis with centrolobular necrosis and hepatic steatosis, as well as acute tubulointerstitial nephropathy, which altogether induce a severe hepatorenal syndrome.",DOI: 10.1016/S0041-0101(97)00074-3
+Viroidin,General Toxicity,"LD50 = 1.0 mg/kg(Intraperitoneal, Mouse)",DOI: 10.1016/0272-0590(85)90151-4
+Viroidin,Hepatotoxicity,"Viroidin belongs to a class of toxins called virotoxins. The virotoxins  induced hemorrhagic necrosis of the liver. The earliest changes in hepatocytes were plasma membrane invagination and cytoplasmic vacuole formation. At later time periods, erythrocyte accumulation was evident in vacuoles and in the cytoplasm. The severity of hepatic damage, as judged by morphologic analysis, was correlated with serum ALT activity. Mild ultrastructural alterations in the bile canalicular pole of hepatocytes were observed during the development of cholestasis.",DOI: 10.1016/0272-0590(85)90151-4
+Alloviroidin,General Toxicity,"LD50 = 1.69 mg/kg (Intraperitoneal, Mouse)",DOI: 10.1016/0272-0590(85)90151-4
+Alloviroidin,Hepatotoxicity,"Alloviroidin belongs to a class of toxins called virotoxins. The virotoxins  induced hemorrhagic necrosis of the liver. The earliest changes in hepatocytes were plasma membrane invagination and cytoplasmic vacuole formation. At later time periods, erythrocyte accumulation was evident in vacuoles and in the cytoplasm. The severity of hepatic damage, as judged by morphologic analysis, was correlated with serum ALT activity. Mild ultrastructural alterations in the bile canalicular pole of hepatocytes were observed during the development of cholestasis.",DOI: 10.1016/0272-0590(85)90151-4
+Deoxoviroidin ,General Toxicity,"LD50 = 3.35 mg/kg (Intraperitoneal, Mouse)",DOI: 10.1016/0272-0590(85)90151-4
+Deoxoviroidin ,General Toxicity,"LD50 = 5.1 mg/kg (Intraperitoneal, Mus musculus)",DOI: 10.1016/0272-0590(85)90151-4
+Deoxoviroidin ,Hepatotoxicity,"Deoxoviroidin belongs to a class of toxins called virotoxins. The virotoxins  induced hemorrhagic necrosis of the liver. The earliest changes in hepatocytes were plasma membrane invagination and cytoplasmic vacuole formation. At later time periods, erythrocyte accumulation was evident in vacuoles and in the cytoplasm. The severity of hepatic damage, as judged by morphologic analysis, was correlated with serum ALT activity. Mild ultrastructural alterations in the bile canalicular pole of hepatocytes were observed during the development of cholestasis.",DOI: 10.1016/0272-0590(85)90151-4
+α-Viroidin,General Toxicity,"LD50 = 1.71 mg/kg (Intraperitoneal, Mouse)",DOI: 10.1016/0272-0590(85)90151-4
+α-Viroidin,General Toxicity,"LD50 = 3.7 mg/kg (Intraperitoneal, Mouse)",DOI: 10.1016/0272-0590(85)90151-4
+α-Viroidin,Hepatotoxicity,"α-Viroidin belongs to a class of toxins called virotoxins. The virotoxins  induced hemorrhagic necrosis of the liver. The earliest changes in hepatocytes were plasma membrane invagination and cytoplasmic vacuole formation. At later time periods, erythrocyte accumulation was evident in vacuoles and in the cytoplasm. The severity of hepatic damage, as judged by morphologic analysis, was correlated with serum ALT activity. Mild ultrastructural alterations in the bile canalicular pole of hepatocytes were observed during the development of cholestasis.",DOI: 10.1016/0272-0590(85)90151-4
+Viroisin,General Toxicity,"LD50 = 1.68 mg/kg (Intraperitoneal, Mouse)",DOI: 10.1016/0272-0590(85)90151-4
+Viroisin,Hepatotoxicity,"Viroisin belongs to a class of toxins called virotoxins. The virotoxins  induced hemorrhagic necrosis of the liver. The earliest changes in hepatocytes were plasma membrane invagination and cytoplasmic vacuole formation. At later time periods, erythrocyte accumulation was evident in vacuoles and in the cytoplasm. The severity of hepatic damage, as judged by morphologic analysis, was correlated with serum ALT activity. Mild ultrastructural alterations in the bile canalicular pole of hepatocytes were observed during the development of cholestasis.",DOI: 10.1016/0272-0590(85)90151-4
+L-2-Amino-4-pentynoic acid,Nephrotoxicity,"L-2-amino-4-pentynoic acid was injected into mice, and the components and enzymes in blood and liver were determined 15 h after injection. With D,L-2-amino-4-pentynoic acid, liver weight increased and contents of serum glucose and liver glycogen decreased significantly and activities of Serum Glutamic Oxaloacetic Transaminase (SGOT) and Serum Glutamic Pyruvic Transaminase (SGPT) increased markedly.",DOI: 10.1016/0300-483x(86)90117-4
+Allenic norleucine,General Toxicity,Allenic norleucine was toxic to guinea pigs at dosages beginning with 10 mg/kg i.p. and lethal at 100 mg/kg.,PMID: 4795581
+Allenic norleucine,Nephrotoxicity,"Allenic norleucine is a compound isolated from nephrotoxic Amanita species. It induces gastrointestinal symptoms 20 min–24 h following ingestion, with oliguric renal failure developing within 1–6 days. Mild transaminase elevation is typical. Acute kidney injury (AKI) is characterized by interstitial nephritis on renal biopsy and resolves over weeks.",DOI: 10.4103/ijn.IJN_353_16
+"(2R,4S)-2-Amino-4-hydroxy-5-hexynoic acid",General Toxicity,"LD50 = 71 mg/kg (Oral, ICR mice)",DOI: 10.1002/ange.201106502
+(2R)-2-Amino-5-hexynoic acid,General Toxicity,"LD50 = 84 mg/kg (Oral, ICR mice)",DOI: 10.1002/ange.201106502
+Ibotenic acid,General Toxicity,"LD50 = 129 mg/kg (Oral, Rat)",PMID: 5696006
+Ibotenic acid,General Toxicity,"LD50 = 42 mg/kg (Intravenous, Rat)",PMID: 5696006
+Ibotenic acid,General Toxicity,"LD50 = 38 mg/kg (Oral, Mouse)",PMID: 5696006
+Ibotenic acid,General Toxicity,"LD50 = 15 mg/kg (Intravenous, Mouse)",PMID: 5696006
+Ibotenic acid,Neurotoxicity,"Ibotenic acid typically affects both NMDA and APCD or metabolotropic quisqualate receptor sites in the central nervous system. Due to their targeting of these systems the symptoms associated with Ibotenic acid poisoning are often related to perception and control. Symptoms associated with ibotenic acid are usually onset within 30–60 minutes and include a range of nervous system effects. The most common symptoms include nausea, vomiting, and drowsiness. However, after the first hour symptoms begin to include confusion, euphoria, visual and auditory distortions, sensations of floating, and retrograde amnesia. Symptoms are slightly different for children, typically beginning after 30–180 minutes. Dominant symptoms in children include ataxia, obtundation, and lethargy. Seizures are occasionally reported, however, more commonly with children.",http://en.wikipedia.org/wiki/Ibotenic_acid
+Muscimol,General Toxicity,"LD50 = 4.5 mg/kg (Intravenous, Rat)",DOI: 10.1080/02791072.1976.10472005
+Muscimol,General Toxicity,"LD50 = 45 mg/kg (Oral, Rat)",DOI: 10.1080/02791072.1976.10472005
+Muscimol,General Toxicity,"LDLo = 10 mg/kg (-, Oryctolagus Cuniculus)",DOI: 10.2174/1568007023339328
+Muscimol,General Toxicity,"LD50 = 45 mg/kg (-, Rattus norvegicus)",DOI: 10.2174/1568007023339328
+Muscimol,General Toxicity,"LD50 = 2.5 mg/kg (-, Mus musculus)",DOI: 10.2174/1568007023339328
+Muscimol,General Toxicity,"LD50 = 4.5 mg/kg (-, Rattus norvegicus)",DOI: 10.2174/1568007023339328
+Muscimol,General Toxicity,"LD50 = 3.8 mg/kg (-, Mus musculus)",DOI: 10.2174/1568007023339328
+Muscimol,General Toxicity,"LD50 = 3.2–10 mg/kg (Subcutaneous, Mus musculus)",DOI: 10.1021/jm00122a025
+Muscimol,General Toxicity,"LD50 = 4.2 mg/kg (Intraperitoneal, Mus musculus)",DOI: 10.1021/jm00122a025
+Muscimol,General Toxicity,"LD50 = 17 ± 3 mg/kg (Intraperitoneal, Mus musculus)",DOI: 10.1021/jm00180a029
+Muscimol,General Toxicity,"ED50 = 0.25 ± 0.1 mg/kg (Intraperitoneal, Mus musculus)",DOI: 10.1021/jm00180a029
+Muscimol,Neurotoxicity,"Muscimol is a potent and selective orthosteric agonist for the GABAA receptor and displays sedative-hypnotic, depressant and hallucinogenic psychoactivity.",http://en.wikipedia.org/wiki/Muscimol
+Muscazone,Neurotoxicity,Muscazone is a lactam isomer of muscimol. The hallucinogenic properties of muscazone are weaker than ibotenic acid or muscimol.,DOI: 10.1017/S0953756203007305
+Muscarine,General Toxicity,"LD50 = 0.23 mg/kg (Intravenous, Mouse)",DOI: 10.1111/j.1476-5381.1957.tb01361.x
+Muscarine,General Toxicity,"LD50 = 5 mg/kg (Intraperitoneal, Mouse)",PMID:5093196
+Muscarine,General Toxicity,"LD50 = 1100 µg/kg (Subcutaneous, Mouse)",PMID:5375106
+Muscarine,Neurotoxicity,"Muscarine poisoning is characterized by miosis, blurred vision, increased salivation, excessive sweating, lacrimation, bronchial secretions, bronchoconstriction, bradycardia, abdominal cramping, increased gastric acid secretion, diarrhea and polyuria. If muscarine reaches the brain it can cause tremor, convulsions and hypothermia. Cardiac ventricles contain muscarinic receptors that mediate a decrease in the force of contractions leading to a lower blood pressure. If muscarine is administered intravenously, muscarine can trigger acute circulatory failure with cardiac arrest.",http://en.wikipedia.org/wiki/Muscarine
+Orellanine,General Toxicity,"LD50 = 8.3mg/kg (Subcutaneous, Rat)",DOI: 10.1177/0960327115613845
+Orellanine,General Toxicity,"LD50 = 12.5 mg/kg (Intraperitoneal, Mice)",DOI: 10.1007/BF00570151
+Orellanine,General Toxicity,"LD50 = 90 mg/kg (Oral, Mice)",DOI: 10.1007/BF00570151
+Orellanine,General Toxicity,"LD50 = 33 mg/kg (Oral, Mice)",DOI: 10.1007/bf00316263
+Orellanine,General Toxicity,"LD50 = 5 mg/kg (-, Rattus norvegicus)",DOI: 10.1021/np300135k
+Orellanine,General Toxicity,"LD50 = 39 mg/kg (-, Mus musculus)",DOI: 10.1021/np300135k
+Orellanine,General Toxicity,"LD50 = 12.48 mg/kg (-, Mus musculus)",DOI: 10.1007/bf00316263
+Orellanine,Hepatotoxicity,"A study of orellanine poisoning in mice showed tubular necrosis as well as effects on other organs, as follows: Liver injury, demonstrated by reduced liver weight, elevated liver enzymes, and histopathology characterized by mild hepatocellular vacuolation. Splenic atrophy, characterized by lymphocytolysis.",DOI: 10.3390/toxins8050158
+Orellanine,Nephrotoxicity,"Orellanine appears to be renal specific. Inhibition of alkaline phosphatase decreases production of adenosine triphosphate and disrupts cellular metabolism. Reaction is specific to the epithelium of cells in the proximal tubules and results in tubulointerstitial nephritis and acute kidney injury, with concomitant symptoms and complications. Orellanine seems to cause almost no reaction in glomeruli, although in an animal model, elimination of orellanine was almost exclusively by glomerular filtration.",DOI: 10.3390/toxins10080333
+Psilocybin,General Toxicity,"LD50 = 280 mg/kg (Intravenous, Rat)",DOI: 10.1080/1355621021000005937
+Psilocybin,General Toxicity,"LD50 = 420 mg/kg (-, Mus musculus)",PMID: 4972692
+Psilocybin,General Toxicity,"LD50 = 275 mg/kg (-, Mus musculus)",PMID: 4972692
+Psilocybin,Neurotoxicity,"After ingesting psilocybin, the user may experience a wide range of emotional effects which can include: feelings of disorientation, lethargy, giddiness, euphoria, joy, and depression. At low doses, hallucinatory effects may occur, including enhancement of colors and the animation of geometric shapes. Closed-eye hallucination may occur, where the affected individual may see multi-coloured geometric shapes and vivid imaginative sequences. At higher doses, hallucinatory effects increase and experiences tend to be less social and more introspective or entheogenic. Open-eye visuals are more common, and may be very detailed although rarely confused with reality.",http://www.t3db.ca/toxins/T3D2457
+Psilocin,General Toxicity,"LD50 = 293 mg/kg (Intraperitoneal, Mice)",DOI: 10.3390/toxins7041018
+Psilocin,Neurotoxicity,"Psilocin may cause tachycardia, dilated pupils, restlessness or arousal, euphoria, open and closed eye visuals, synesthesia, increased body temperature, headache, sweating and chills, and nausea.",http://www.t3db.ca/toxins/T3D2458
+Baeocystin,Neurotoxicity,Baeocystin is an N-demethylated derivative of psilocybin. The mechanism of baeocystin is similar to psilocybin and psilocin. It can also bind to specific subtypes of the 5-HT receptor to produce hallucinogenic effects.,DOI: 10.3390/ijms22042218
+Bufotenin,General Toxicity,"LD50 = 200-300 mg/kg (-, Rodents)",http://en.wikipedia.org/wiki/Bufotenin
+Bufotenin,General Toxicity,"LDLo = 2500 mg/kg (-, Xenopus laevis)",DOI: 10.1007/bf01864237
+Bufotenin,General Toxicity,"LD50 = 25 mg/kg (-, Mus musculus)",PMID: 4881757
+Bufotenin,General Toxicity,"LD50 = 290 mg/kg (-, Mus musculus)",DOI: 10.1007/bf00404849
+Bufotenin,Cytotoxicity,"Inhibition = 2.54 % (A549, MTT)",DOI: 10.3390/molecules21030349
+Bufotenin,Cytotoxicity,"Inhibition = 25.58 % (A-375, MTT)",DOI: 10.3390/molecules21030349
+Bufotenin,Neurotoxicity,"Bufotenin produces the head-twitch response, a behavioral proxy of psychedelic effects, in rodents.",http://en.wikipedia.org/wiki/Bufotenin
+Bufotenin,Other Toxicity,"In any case, bufotenin has often been reported to produce pronounced peripheral serotonergic effects. These have included cardiovascular, gastrointestinal, and other effects, among them increased respiratory rate, chest heaviness, purpling of the head and neck skin (intense skin flushing), nausea, vomiting, and retching.",http://en.wikipedia.org/wiki/Bufotenin
+Acromelic acid A ,General Toxicity,"LD50 = 5-5.5 mg/kg (Intravenous, Rat)",DOI: 10.1016/0024-3205(91)90307-W
+Acromelic acid A ,Neurotoxicity,"Acromelic acid A exhibits significant toxicity in rats and mice. In rats, behavioral changes, tonic convulsions, and flaccid paraplegia were observed, with lethal doses causing death during convulsions. In mice, intrathecal administration of even extremely low doses (1 fg/mouse) induced prolonged tactile allodynia, while higher doses (500 ng/kg) caused agitation, convulsions, and rapid death. In humans, accidental ingestion of Clitocybe acromelalga resulted in delayed pain and edema in hands and feet, though direct causation by acromelic acid A remains unproven. Animal studies suggest a potential link between acromelic acid A and these symptoms.",http://en.wikipedia.org/wiki/Acromelic_acid_A
+Acromelic acid B,General Toxicity,"LDLo = 5 × 10-4 mg/kg(-, Mus musculus)",DOI: 10.1038/sj.bjp.0705834
+Acromelic acid B,Neurotoxicity,"Acromelic acid B showed  extremely potent neuroexcitatory action.  Acromelic acid B  was isolated from a poisonous mushroom Clitocybe acromelalga. Ingestion of the mushroom causes a sharp pain and a marked reddish edema in hand and foot (after several days), and it continues for about a month.",DOI: 10.1021/ja00222a044
+Acromelic acid C,General Toxicity,"Lethal toxicity = 10 mg/kg (Intraperitoneal, Mice)",DOI: 10.1016/S0040-4039(00)97501-4
+β-cyano-L-alanine,Neurotoxicity,"β-cyano-L-alanine has been recognized as a neurolathyrogen, exhibiting irreversible tremors, hyperactivity, and rigidity.",DOI: 10.1016/0031-9422(93)85395-8
+Gyromitrin,General Toxicity,"LD50 = 320 mg/kg (Oral, Rat)",DOI: 10.1016/0015-6264(77)90072-4
+Gyromitrin,General Toxicity,"LD50 = 70 mg/kg (Oral, Rabbit)",DOI: 10.1016/0015-6264(77)90072-4
+Gyromitrin,General Toxicity,"LD50 = 344 mg/kg (Oral, Mouse)",DOI: 10.1016/0165-1161(78)90037-7
+Gyromitrin,General Toxicity,"LD50 = 50 mg/kg (Oral, Rabbit)",DOI: 10.1007/BF00625355
+Gyromitrin,Neurotoxicity,"Cases of severe gyromitrin poisoning may progress to a terminal neurological phase, with delirium, muscle fasciculations and seizures, and mydriasis progressing to coma, circulatory collapse, and respiratory arrest. Death may occur from five to seven days after consumption.",http://en.wikipedia.org/wiki/Gyromitrin
+Gyromitrin,Gastrointestinal Toxicity,"Initial symptoms of poisoning are gastrointestinal, with sudden onset of nausea, vomiting, and watery diarrhea which may be bloodstained. Dehydration may develop if the vomiting or diarrhea is severe. Dizziness, lethargy, vertigo, tremor, ataxia, nystagmus, and headaches develop soon after; fever often occurs, a distinctive feature which does not develop after poisoning by other types of mushrooms.",http://en.wikipedia.org/wiki/Gyromitrin
+Gyromitrin,Nephrotoxicity,"Intravascular hemolysis causes destruction of red blood cells resulting in increases in free hemoglobin and hemoglobinuria, which can lead to kidney toxicity or kidney failure.",http://en.wikipedia.org/wiki/Gyromitrin
+Gyromitrin,Hepatotoxicity,"In some cases there may be an asymptomatic phase following the initial symptoms which is then followed by more significant toxicity. The patient develops jaundice and the liver and spleen become enlarged, in some cases blood sugar levels will rise (hyperglycemia) and then fall (hypoglycemia) and liver toxicity is seen.",http://en.wikipedia.org/wiki/Gyromitrin
+Gyromitrin,Other Toxicity,Gyromitrin may also cause the following additional toxic effects: Methemoglobinemia may also occur in some cases. This is where higher than normal levels of methemoglobin—a form of hemoglobin that can not carry oxygen—are found in the blood. It causes the patient to become short of breath and cyanotic.,http://en.wikipedia.org/wiki/Gyromitrin
+3-Methylbutanal methylformylhydrazone,General Toxicity,"LDLo = 350 mg/kg (-, Oryctolagus Cuniculus)",DOI: 10.1007/BF00625355
+3-Methylbutanal methylformylhydrazone,General Toxicity,"LD50 = 626 mg/kg (-, Mus musculus)",DOI: 10.1016/0041-008X(78)90106-0
+3-Methylbutanal methylformylhydrazone,Other Toxicity,"3-Methylbutanal methylformylhydrazone (3-MBMFH) was given to Swiss mice by intragastric instillations at weekly intervals 53 or 2 times at 50 μg/g. The treatments induced tumors of the lungs, liver, gallbladder, preputial glands, and thyroid.",PMID: 2133101
+1-Methyl-2-pentylidenehydrazinecarboxaldehyde,General Toxicity,"LDLo = 350 mg/kg (-, Oryctolagus Cuniculus)",DOI: 10.1007/BF00625355
+1-Methyl-2-pentylidenehydrazinecarboxaldehyde,General Toxicity,"LD50 = 594 mg/kg (-, Mus musculus)",DOI: 10.1016/0041-008X(78)90106-0
+Hexanal methylformylhydrazone,General Toxicity,"LDLo = 350 mg/kg (-, Oryctolagus Cuniculus)",DOI: 10.1007/BF00625355
+Hexanal methylformylhydrazone,Other Toxicity,"Hexanal methylformylhydrazone (HMFH) was administered to mice by intragastric instillations at weekly intervals of 52 times at 50 or 100 μg/g. The treatment induced tumors of the lungs, liver, and preputial glands. The histopathol. examination revealed adenomas and adenocarcinomas of lungs, benign hepatomas and liver cell carcinomas, and squamous cell papillomas and carcinomas and adenomas of preputial glands.",DOI: 10.1007/BF00436794
+Coprine,Other Toxicity,"Symptoms of coprine poisoning include facial reddening/flushing, nausea, vomiting, malaise, agitation, palpitations, tingling in limbs, and sometimes headache and excessive salivation. This can be described as the alcohol flush reaction. Symptoms typically arise five to ten minutes after consumption of alcohol. If no more alcohol is consumed, the symptoms will generally subside over two to three hours, and symptom severity is proportional to the amount of alcohol consumed. Consumption of alcohol can induce these symptoms for up to 5 days after ingesting coprine. Besides, testing has shown coprine to have long-term mutagenic and reproductive effects.",http://en.wikipedia.org/wiki/Coprine
+Illudin S ,General Toxicity,"LDLo = 15 mg/kg (-, Mus musculus)",DOI: 10.1016/C2013-0-07886-3
+Illudin S ,Cytotoxicity,"IC50 = 23 ± 3 nmol/l (Colony Formation Assay, HL60)",DOI: 10.1021/tx00018a013
+Illudin S ,Cytotoxicity,"IC50 = 3 ± 1 nmol/l (Colony Formation Assay, HL60)",DOI: 10.1021/np960450y
+Illudin S ,Cytotoxicity,"IC50 = 3.3 nM (MTT, HL60)",DOI: 10.1248/cpb.c19-01009
+Illudin S ,Cytotoxicity,"IC50 = 3.7 ng/ml (-, P388)",DOI: 10.1246/cl.1999.1113
+Illudin S ,Gastrointestinal Toxicity,"Rats were dosed orally with illudin S, a toxic substance derived from the poisonous mushroom Lampteromyces japonicus. The digestive tract showed severe damage, whereas the liver, kidney and lung did not show any significant changes. The effects observed became more pronounced with increasing illudin S dose (5, 10 or 20 mg kg-1 body weight). Severe inflammation and edema were observed in the stomach and moderate changes in the proximal part of the small intestine. Histopathol. examination revealed hemorrhagic erosions and marked inflammatory edema in the gastric mucosa.",DOI: 10.1177/096032719601500403
+Illudin M,General Toxicity,"LDLo = 15 mg/kg (-, Mus musculus)",DOI: 10.1016/C2013-0-07886-3
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.03 ± 0.02 μmol/l (MTT, 518A2)",DOI: 10.1097/cad.0b013e32832e056a
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.02 ± 0.01 μmol/l ( MTT, HL-60)",DOI: 10.1097/cad.0b013e32832e056a
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.13 ± 0.03 μmol/l ( MTT, HF)",DOI: 10.1097/cad.0b013e32832e056a
+Illudin M,Cytotoxicity,"IC50 = 3 ± 1 nmol/l (Colony Formation Assay, HL60)",DOI: 10.1021/np960450y
+Illudin M,Cytotoxicity,"IC50(24 h) = 0.04 ± 0.01 μM (MTT, 518A2)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.02 ± 0.01 μM (MTT,518A2)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 0.007 ± 0.002 μM (MTT, HL60)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.001 ± 0.000 μM (MTT, HL60)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 0.003 ± 0.001 μM (MTT, KBv1+Vbl)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.002 ± 0.000 μM (MTT, KBv1+Vbl)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 0.35 ± 0.13 μM (MTT, MCF-7+Topo)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.05 ± 0.01 μM (MTT, MCF-7+Topo)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 1.5 ± 0.6 μM (MTT, HT-29)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) =0.06 ± 0.01 μM (MTT, HT-29)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 1.0 ± 0.3 μM (MTT, C6)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) =0.40 ± 0.06 μM (MTT, C6)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 0.63 ± 0.04 μM (MTT, U87)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.13 ± 0.03 μM (MTT, U87)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 0.55 ± 0.16 μM (MTT, MZ-54)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.06 ± 0.01 μM (MTT, MZ-54)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 0.3 ± 0.05 μM (MTT, U251)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.12 ± 0.02 μM (MTT, U251)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 0.60 ± 0.12 μM (MTT, neurons)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.19 ± 0.04 μM (MTT, neurons)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 1.5 ± 0.4 μM (MTT, astrocytes)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.20 ± 0.03 μM (MTT, astrocytes)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(24 h) = 0.40 ± 0.10 μM (MTT, NE-4C)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,"IC50(48 h) = 0.05 ± 0.02 μM (MTT, NE-4C)",DOI: 10.3390/ijms23169056
+Illudin M,Cytotoxicity,Apoptosis = 86.0 ± 1.5 % (PANC-1),DOI: 10.1016/j.bmc.2008.08.015
+Illudin M,Cytotoxicity,Apoptosis = 47.9 ± 0.1 % (HT-29),DOI: 10.1016/j.bmc.2008.08.015
+Illudin M,Cytotoxicity,Apoptosis = 88.9 ± 0.8 % (HF),DOI: 10.1016/j.bmc.2008.08.015
+Illudin M,Cytotoxicity,"IC50 = 0.13 ± 0.02 µM (MTT, HF)",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.01 ± 0.00 µM [MTT, HCT-116 (wt)]",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.02 ± 0.01 µM [MTT, HCT-116 (p53–/–)]",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.01 ± 0.00 µM [MTT, HCT-116 (JNK–)]",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.04 ± 0.00 µM [MTT, HCT-116 (ERK–)]",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.07 ± 0.01 µM (MTT, HT-29)",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.01 ± 0.00 µM (MTT, MCF-7/Topo)",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.06 ± 0.01 µM (MTT, MDA-MB-231)",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.02 ± 0.00 µM (MTT, KB-V1/Vbl)",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.03 ± 0.02 µM (MTT, 518A2)",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.02 ± 0.01 µM (MTT, HL-60)",DOI: 10.1021/jm200359n
+Illudin M,Cytotoxicity,"IC50 = 0.05 ± 0.01 µM (MTT, BxPC-3)",DOI: 10.1021/jm200359n
+Gymnopilene,Cytotoxicity,"IC50 = 18.45 μM/l (SRB, A549)",DOI: 10.1038/ja.2011.122
+Gymnopilene,Cytotoxicity,"IC50 = 22.14 μM/l (SRB, SK-OV-3)",DOI: 10.1038/ja.2011.122
+Gymnopilene,Cytotoxicity,"IC50 = 14.40 μM/l (SRB, SK-MEL-2)",DOI: 10.1038/ja.2011.122
+Gymnopilene,Cytotoxicity,"IC50 = 24.10 μM/l (SRB, HCT-15)",DOI: 10.1038/ja.2011.122
+Fasciculol E,General Toxicity,"LD50 = 50 mg/kg (Intraperitoneal, Mice)",DOI: 10.1248/cpb.31.2176
+Fasciculol E,Cytotoxicity,"IC50 > 30 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol E,Cytotoxicity,"IC50 > 30 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol E,Cytotoxicity,"IC50 = 9.06 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol E,Cytotoxicity,"IC50 > 30 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol F,General Toxicity,"LD50 = 168 mg/kg (Intraperitoneal, Mice)",DOI: 10.1248/cpb.31.2176
+Fasciculol F,Cytotoxicity,"IC50 > 30 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol F,Cytotoxicity,"IC50 > 30 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol F,Cytotoxicity,"IC50 = 5.73 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol F,Cytotoxicity,"IC50 > 30 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Sublateriol C,Cytotoxicity,"IC50 = 4.47 μM (SRB, A549)",DOI: 10.1021/np300801x
+Sublateriol C,Cytotoxicity,"IC50 = 3.29 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Sublateriol C,Cytotoxicity,"IC50 = 4.54 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Sublateriol C,Cytotoxicity,"IC50 = 7.71 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculic acid F,Cytotoxicity,"IC50 = 25.52 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculic acid F,Cytotoxicity,"IC50 = 16.17 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculic acid F,Cytotoxicity,"IC50 = 25.23 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculic acid F,Cytotoxicity,"IC50 = 27.96 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Hebevinoside Ⅰ,General Toxicity,"Intraperitoneal administration of 50 mg kg-1 of hebevinoside Ⅰ, to mice led to death after paralysis within 72 h.",DOI: 10.1248/cpb.34.88
+Hebevinoside Ⅱ,General Toxicity,"Intraperitoneal administration of 100 mg kg-1 of hebevinoside Ⅱ, to mice led to death after paralysis within 72 h.",DOI: 10.1248/cpb.34.88
+Hebevinoside Ⅲ,General Toxicity,"Intraperitoneal administration of 100 mg kg-1 of hebevinoside Ⅲ, to mice led to death after paralysis within 72 h.",DOI: 10.1248/cpb.34.88
+Hebevinoside Ⅴ,General Toxicity,Intraperitoneal administration of 50 mg kg-1 of hebevinoside Ⅴ to mice led to death after paralysis within 72 h.,DOI: 10.1248/cpb.34.88
+Hebevinoside Ⅵ,General Toxicity,"The administration of 100 mg kg -1 of hebevinoside VI to mice resulted in death after paralysis; however, administration of 50 mg kg -1 of hebevinoside VI led to survival of the mice. The LD50 value of hebevinoside VI after intraperitoneal administration was 66 mg kg -1.",DOI: 10.1248/cpb.35.2254
+HS-A,General Toxicity,Intraperitoneal administration of HS-A at a dose of 100 mg/kg caused death after paralysis of the limbs in mice.,DOI: 10.1248/cpb.40.869
+HS-A,Neurotoxicity,Intraperitoneal administration of HS-A caused death after paralysis of the limbs in mice at the dose of 100 mg/kg.,DOI: 10.1248/cpb.40.869
+HS-A,Gastrointestinal Toxicity,Intraperitoneal administration of HS-A caused diarrhea in mice at the dose of 45 mg/kg.,DOI: 10.1248/cpb.40.869
+HS-B,General Toxicity,Intraperitoneal administration of HS-B at a dose of 100 mg/kg caused death after paralysis of the limbs in mice.,DOI: 10.1248/cpb.40.869
+HS-B,Neurotoxicity,Intraperitoneal administration of HS-B caused death after paralysis of the limbs in mice at the dose of 100 mg/kg.,DOI: 10.1248/cpb.40.869
+HS-B,Gastrointestinal Toxicity,Intraperitoneal administration of HS-B caused diarrhea in mice at the dose of 45 mg/kg.,DOI: 10.1248/cpb.40.869
+HS-C,General Toxicity,Intraperitoneal administration of HS-C at a dose of 100 mg/kg caused death after paralysis of the limbs in mice.,DOI: 10.1248/cpb.40.869
+HS-C,Neurotoxicity,Intraperitoneal administration of HS-C caused death after paralysis of the limbs in mice at the dose of 100 mg/kg.,DOI: 10.1248/cpb.40.869
+HS-C,Gastrointestinal Toxicity,Intraperitoneal administration of HS-C caused diarrhea in mice at the dose of 45 mg/kg.,DOI: 10.1248/cpb.40.869
+Cycloprop-2-ene carboxylic acid,General Toxicity,"LD100 = 2.5 mg/kg (Oral, Mice)",DOI: 10.1038/nchembio.179
+Cycloprop-2-ene carboxylic acid,General Toxicity,"LD100 = 2.5 mg/kg (-, Mus musculus)",DOI: 10.1038/nchembio.179
+Cycloprop-2-ene carboxylic acid,Other Toxicity,"Cycloprop-2-ene carboxylic acid, as the fatal toxin of Russula subnigricans. The toxicity of this compound was demonstrated on administration to mice, which displayed severe rhabdomyolysis.",DOI: 10.1038/nchembio.179
+Saponaceolide J,Cytotoxicity,"IC50 = 10.3 ± 0.25 µM (MTS, Caki-1)",DOI: 10.3390/molecules28093864
+Saponaceolide J,Cytotoxicity,"IC50 = 1.5 ± 0.10 µM (MTS, HL-60)",DOI: 10.3390/molecules28093864
+Saponaceolide J,Cytotoxicity,"IC50 = 8.5 ± 0.20 µM (MTS, A-549)",DOI: 10.3390/molecules28093864
+Saponaceolide J,Cytotoxicity,"IC50 = 5.0 ± 0.19 µM (MTS, Hep-G2)",DOI: 10.3390/molecules28093864
+Saponaceolide J,Cytotoxicity,"IC50 = 6.4 ± 0.18 µM (MTS, MCF-7)",DOI: 10.3390/molecules28093864
+Saponaceolide A,Cytotoxicity,"IC50 = 2.0 ± 0.3 μM/l (MTT, A549)",DOI: 10.1177/1934578x1801300901
+Saponaceolide A,Cytotoxicity,"IC50 = 2.9 ± 0.3 μM/l (MTT, Hep G2)",DOI: 10.1177/1934578x1801300901
+Saponaceolide A,Cytotoxicity,"IC50 = 0.7 ± 0.2 μM/l (MTT, WISH)",DOI: 10.1177/1934578x1801300901
+Saponaceolide A,Cytotoxicity,"IC50 = 13.4 ± 0.3 μM/l (MTT, Caki-1)",DOI: 10.1177/1934578x1801300901
+Saponaceolide A,Cytotoxicity,"IC50 = 21.1 ± 0.3 μM/l (MTT, MCF-7)",DOI: 10.1177/1934578x1801300901
+Saponaceolide A,Cytotoxicity,"IC50 = 12.5 ± 0.29 µM (MTS, Caki-1)",DOI: 10.3390/molecules28093864
+Saponaceolide A,Cytotoxicity,"IC50 = 0.3 ± 0.09 µM (MTS, HL-60)",DOI: 10.3390/molecules28093864
+Saponaceolide A,Cytotoxicity,"IC50 = 1.9 ± 0.13 µM (MTS, A-549)",DOI: 10.3390/molecules28093864
+Saponaceolide A,Cytotoxicity,"IC50 = 3.0 ± 0.18 µM (MTS, Hep-G2)",DOI: 10.3390/molecules28093864
+Saponaceolide A,Cytotoxicity,"IC50 = 1.5 ± 0.10 µM (MTS, MCF-7)",DOI: 10.3390/molecules28093864
+Saponaceolide C,Cytotoxicity,"IC50 = 6.0 ± 0.3 μM/l (MTT, A549)",DOI: 10.1177/1934578x1801300901
+Saponaceolide C,Cytotoxicity,"IC50 = 5.7 ± 0.2 μM/l (MTT, Hep G2)",DOI: 10.1177/1934578x1801300901
+Saponaceolide C,Cytotoxicity,"IC50 = 4.3 ± 0.2 μM/l (MTT, WISH)",DOI: 10.1177/1934578x1801300901
+Saponaceolide C,Cytotoxicity,"IC50 = 65.9 ± 0.5 μM/l (MTT, Caki-1)",DOI: 10.1177/1934578x1801300901
+Saponaceolide C,Cytotoxicity,"IC50 = 42.3 ± 0.5 μM/l (MTT, MCF-7)",DOI: 10.1177/1934578x1801300901
+Saponaceolide F,Cytotoxicity,"IC50 = 0.8 ± 0.3 μM/l (MTT, A549)",DOI: 10.1177/1934578x1801300901
+Saponaceolide F,Cytotoxicity,"IC50 = 1.7 ± 0.2 μM/l (MTT, Hep G2)",DOI: 10.1177/1934578x1801300901
+Saponaceolide F,Cytotoxicity,"IC50 = 0.5 ± 0.2 μM/l (MTT, WISH)",DOI: 10.1177/1934578x1801300901
+Saponaceolide F,Cytotoxicity,"IC50 = 4.1 ± 0.4 μM/l (MTT, Caki-1)",DOI: 10.1177/1934578x1801300901
+Saponaceolide F,Cytotoxicity,"IC50 = 5.0 ± 0.4 μM/l (MTT, MCF-7)",DOI: 10.1177/1934578x1801300901
+Saponaceolide F,Cytotoxicity,"IC50 = 4.2 ± 0.17 µM (MTS, Caki-1)",DOI: 10.3390/molecules28093864
+Saponaceolide F,Cytotoxicity,"IC50 = 0.3 ± 0.05 µM (MTS, HL-60)",DOI: 10.3390/molecules28093864
+Saponaceolide F,Cytotoxicity,"IC50 = 0.9 ± 0.10 µM (MTS, A-549)",DOI: 10.3390/molecules28093864
+Saponaceolide F,Cytotoxicity,"IC50 = 1.8 ± 0.11 µM (MTS, Hep-G2)",DOI: 10.3390/molecules28093864
+Saponaceolide F,Cytotoxicity,"IC50 = 4.5 ± 0.15 µM (MTS, MCF-7)",DOI: 10.3390/molecules28093864
+Saponaceolide F,Cytotoxicity,"IC50 = 10 µg/ml (MTT, B16)",DOI: 10.1248/cpb.50.1603
+Saponaceolide F,Cytotoxicity,"IC50 = 1 µg/ml (MTT, L929)",DOI: 10.1248/cpb.50.1603
+Saponaceolide H,Cytotoxicity,"IC50 = 0.9 ± 0.3 μM/l (MTT, A549)",DOI: 10.1177/1934578x1801300901
+Saponaceolide H,Cytotoxicity,"IC50 = 2.0 ± 0.3 μM/l (MTT, Hep G2)",DOI: 10.1177/1934578x1801300901
+Saponaceolide H,Cytotoxicity,"IC50 = 0.9 ± 0.3 μM/l (MTT, WISH)",DOI: 10.1177/1934578x1801300901
+Saponaceolide T,Cytotoxicity,"IC50 = 7.1 ± 0.4 μM/l (MTT, A549)",DOI: 10.1177/1934578x1801300901
+Saponaceolide T,Cytotoxicity,"IC50 = 19.2 ± 0.3 μM/l (MTT, Hep G2)",DOI: 10.1177/1934578x1801300901
+Saponaceolide T,Cytotoxicity,"IC50 = 3.5 ± 0.3 μM/l (MTT, WISH)",DOI: 10.1177/1934578x1801300901
+Saponaceolide B,General Toxicity,"LD50 = 88.3 mg/kg (Oral, Mice)",DOI: 10.1002/chem.201400226
+Saponaceolide B,Cytotoxicity,"IC50 > 20 µM (MTS, Caki-1)",DOI: 10.3390/molecules28093864
+Saponaceolide B,Cytotoxicity,"IC50 = 1.1 ± 0.12 µM (MTS, HL-60)",DOI: 10.3390/molecules28093864
+Saponaceolide B,Cytotoxicity,"IC50 = 13.8 ± 0.35 µM (MTS, A-549)",DOI: 10.3390/molecules28093864
+Saponaceolide B,Cytotoxicity,"IC50 = 6.3 ± 0.19 µM (MTS, Hep-G2)",DOI: 10.3390/molecules28093864
+Saponaceolide B,Cytotoxicity,"IC50 = 2.1 ± 0.11 µM (MTS, MCF-7)",DOI: 10.3390/molecules28093864
+Saponaceolide B,Other Toxicity,"Mice that were orally force-fed Saponaceolide B exhibited dose-dependent signs of intoxication,  such as ataxia, reduced movement, and convulsions were observed and recurrent convulsions followed by death after 45–60 min. Saponaceolide B was found to increase serum creatine kinase levels in mice.",DOI: 10.1002/chem.201400226
+Saponaceolide M,General Toxicity,"LD50 = 63.7 mg/kg (Oral, Mice)",DOI: 10.1002/chem.201400226
+Saponaceolide M,Other Toxicity,"Mice that were orally force-fed Saponaceolide M exhibited dose-dependent signs of intoxication,  such as ataxia, reduced movement, and convulsions were observed and recurrent convulsions followed by death after 45–60 min. Saponaceolide M was found to increase serum creatine kinase levels in mice.",DOI: 10.1002/chem.201400226
+Tricholidic acid B,Cytotoxicity,"IC50 > 25 µM (MTS, HL-60)",DOI: 10.3390/molecules28093864
+Tricholidic acid,Cytotoxicity,"IC50 > 25 µM (MTS, HL-60)",DOI: 10.3390/molecules28093864
+Tricholidic acid C,Cytotoxicity,"IC50 > 25 µM (MTS, HL-60)",DOI: 10.3390/molecules28093864
+Saponaceolide E,Cytotoxicity,"IC50 = 10 µg/ml (MTT, B16)",DOI: 10.1248/cpb.50.1603
+Saponaceolide E,Cytotoxicity,"IC50 = 1 µg/ml (MTT, L929)",DOI: 10.1248/cpb.50.1603
+Saponaceoic acid III,Cytotoxicity,"IC50 = 115.7 µM (MTT, HL-60)",DOI: 10.1177/1934578X1601100208
+Saponaceoic acid I,Cytotoxicity,"IC50 = 111.3 µM (MTT, HL-60)",DOI: 10.1177/1934578X1601100208
+Roridin D,General Toxicity,"LD50 = 2.0 mg/kg (Intraperitoneal, CD-1 mice)",DOI: 10.1007/BF01062363
+Roridin D,Other Toxicity,"Roridin D is a trichothecene. Trichothecenes have multiorgan effects including anoerxia and weight loss, growth retardation, nervous disorders, cardiovascular alterations, immunodepression, hemostatic derangements, skin toxicity, decreased reproductive capacity, bone marrow damage, and alimentary toxic aleukia.",http://www.t3db.ca/toxins/T3D3710
+Roridin E,General Toxicity,"LD50 = 2.0 mg/kg (Intraperitoneal, CD-1 mice)",DOI: 10.1007/BF01062363
+Roridin E,General Toxicity,Roridin E had a lethal effect on mice by at least 0.5 mg per capita.,DOI: 10.1016/s0040-4020(01)00824-9
+Roridin E,General Toxicity,"LD50 = 10 mg/kg (Intraperitoneal, Mus musculus)",DOI: 10.1016/0041-0101(85)90003-0
+Roridin E,General Toxicity,"LD50 = 55 mg/kg (Oral, Mus musculus)",DOI: 10.1016/0041-0101(85)90003-0
+Roridin E,Cytotoxicity,"IC50 = 0.3 ng/mL (WST-8, HL-60)",DOI: 10.1021/np000443g
+Roridin E,Cytotoxicity,"IC50 = 0.2 ng/mL (WST-8, L1210)",DOI: 10.1021/np000443g
+Roridin E,Cytotoxicity,EC50 = 0.5 ng/mL (KB cells),DOI: 10.1021/np980323x
+Roridin E,Cytotoxicity,EC50 = 0.7 ng/mL (BC1 cells),DOI: 10.1021/np980323x
+Roridin E,Cytotoxicity,EC50 = 0.4 ng/mL (vero cells),DOI: 10.1021/np980323x
+Roridin E,Cytotoxicity,"IC50 = 0.00002 μM (SRB, Bt549)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin E,Cytotoxicity,"IC50 = 0.00002 μM (SRB, HCC70)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin E,Cytotoxicity,"IC50 = 0.00003 μM (SRB, MDA-MB-231)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin E,Cytotoxicity,"IC50 = 0.00005 μM (SRB, MDA-MB-468)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin E,Other Toxicity,"Exposure of high levels of roridin E has been associated with severe itching, soreness and redness in direct physical contact with the skin. Other reported effects include loss of muscle coordination, nausea, vomiting, diarrhea, difficulty breathing, chest pain, hemoptysiss and bleeding disorders.",http://en.wikipedia.org/wiki/Roridin_E
+Verrucarin J,Cytotoxicity,"IC50 = 2.5 ng/mL (WST-8, HL-60)",DOI: 10.1021/np000443g
+Verrucarin J,Cytotoxicity,"IC50 = 2.5 ng/mL (WST-8, L1211)",DOI: 10.1021/np000443g
+Verrucarin J,Cytotoxicity,EC50 = 3.9 ng/mL (KB cells),DOI: 10.1021/np980323x
+Verrucarin J,Cytotoxicity,EC50 = 14 ng/mL (BC1 cells),DOI: 10.1021/np980323x
+Verrucarin J,Cytotoxicity,EC50 = 1.2 ng/mL (vero cells),DOI: 10.1021/np980323x
+Satratoxin H,General Toxicity,Satratoxin H had a lethal effect on mice by at least 0.5 mg per capita.,DOI: 10.1016/s0040-4020(01)00824-9
+Satratoxin H,General Toxicity,"LD50 = 1.0-1.4 mg/kg (-, Mice)",http://en.wikipedia.org/wiki/Satratoxin-H
+Satratoxin H,Cytotoxicity,"IC50 = 1.8 μM (SRB, Bt549)",DOI: 10.1021/acs.jnatprod.8b00823
+Satratoxin H,Cytotoxicity,"IC50 = 2.2 μM (SRB, HCC70)",DOI: 10.1021/acs.jnatprod.8b00823
+Satratoxin H,Cytotoxicity,"IC50 = 2.0 μM (SRB, MDA-MB-231)",DOI: 10.1021/acs.jnatprod.8b00823
+Satratoxin H,Cytotoxicity,"IC50 = 3.4 μM (SRB, MDA-MB-468)",DOI: 10.1021/acs.jnatprod.8b00823
+Satratoxin H,Other Toxicity,"Satratoxin-H is extremely versatile. Contact with the solution through ingestion, inhalation, or even prolonged physical contact produces symptoms similar to those listed below.1. a rash that becomes a moist dermatitis. 2. nosebleeds. 3. chest pain. 4. pulmonary hemorrhage (bleeding in the lungs). 5. fever 6. headache7. fatigue.However, if consumed in large quantities, it can be lethal.",http://en.wikipedia.org/wiki/Satratoxin-H
+"Satratoxin H 12',13'-diacetate",General Toxicity,"Satratoxin H 12',13'-diacetate had a lethal effect on mice by at least 0.5 mg per capita.",DOI: 10.1016/s0040-4020(01)00824-9
+Satratoxin H 12'-acetate,General Toxicity,Satratoxin H 12'-acetate had a lethal effect on mice by at least 0.5 mg per capita.,DOI: 10.1016/s0040-4020(01)00824-9
+Satratoxin H 13'-acetate,General Toxicity,Satratoxin H 13'-acetate had a lethal effect on mice by at least 0.5 mg per capita.,DOI: 10.1016/s0040-4020(01)00824-9
+Ustalic acid,General Toxicity,"Ustalic acid was orally force-fed to mice at 10 mg per mouse, all the mice died.",DOI: 10.1039/B202607D
+Ustalic acid,Gastrointestinal Toxicity,"Ustalic acid was orally force-fed to mice at three concentrations, 2, 5 or 10 mg per mouse, by using a catheter (one group, 3 mice). All doses caused them to sit in a crouched position, to be hesitant to move, and caused tremors and abdominal contractions. The onset of these reactions occurred consistently in 3 h and continued up to 2 days, often resulting in death; at 10 mg per mouse, all the mice died.",DOI: 10.1039/B202607D
+"2-amino-3-methyl-3-[[3,4,5-trihydroxy-6-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]methoxy]butanoic acid",Cytotoxicity,"Relative viability  = 84 ± 3% at 10 μg/mL (MTT, glial cell)",DOI: 10.1016/j.tet.2009.11.041
+Questiomycin A,Cytotoxicity,"IC50 = 1.2 µM (MTT, MT-4)",DOI: 10.1021/jm020913z
+Questiomycin A,Cytotoxicity,"IC50 = 2.0 µM (MTT, CCRF-CEM)",DOI: 10.1021/jm020913z
+Questiomycin A,Cytotoxicity,"IC50 = 1.0 µM (MTT, CCRF-SB)",DOI: 10.1021/jm020913z
+Questiomycin A,Cytotoxicity,"IC50 = 2.7 µM (MTT, HeLa)",DOI: 10.1021/jm020913z
+Questiomycin A,Cytotoxicity,"IC50 = 1.8 µM (MTT, Hep-2)",DOI: 10.1021/jm020913z
+Questiomycin A,Cytotoxicity,"GI50 = 0.95 µg/ml (SRB, HM02)",DOI: 10.1038/ja.2006.12
+Questiomycin A,Cytotoxicity,"GI50 = 1.4 µg/ml (SRB, HepG2)",DOI: 10.1038/ja.2006.12
+Questiomycin A,Cytotoxicity,"GI50 = 0.13 µg/ml (SRB, MCF7)",DOI: 10.1038/ja.2006.12
+Questiomycin A,Cytotoxicity,"TGI = 2.2 µg/ml (SRB, HM02)",DOI: 10.1038/ja.2006.12
+Questiomycin A,Cytotoxicity,"TGI = 5.6 µg/ml (SRB, HepG2)",DOI: 10.1038/ja.2006.12
+Questiomycin A,Cytotoxicity,"TGI = 0.42 µg/ml (SRB, MCF7)",DOI: 10.1038/ja.2006.12
+Questiomycin A,Cytotoxicity,"GI50 = 4.5 µM (-, HM02)",DOI: 10.1021/np060063g
+Questiomycin A,Cytotoxicity,"GI50 = 6.6 µM (-, HepG2)",DOI: 10.1021/np060063g
+Questiomycin A,Cytotoxicity,"GI50 = 0.61 µM (-, MCF7)",DOI: 10.1021/np060063g
+Questiomycin A,Cytotoxicity,"TGI = 10 µM (-, HM02)",DOI: 10.1021/np060063g
+Questiomycin A,Cytotoxicity,"TGI = 26 µM (-, HepG2)",DOI: 10.1021/np060063g
+Questiomycin A,Cytotoxicity,"TGI = 2.0 µM (-, MCF7)",DOI: 10.1021/np060063g
+2-Butyl-1-azacyclohexene iminium salt,General Toxicity,"LD99 = 25 mg/kg (-, ddY mice)",DOI: 10.1016/S0040-4039(02)01495-8
+Norcaperati acid,Other Toxicity,"In rats norcaperatic acid produced delayed onset, dose-related effects of mydriasis, skeletal muscle weakness, and central nervous system depression similar to those induced by its homolog, agaricic acid. Agaricic acid was a nonspecific potentiator of furtrethonium in isolated rat jejunum. Norcaperatic acid produced a slow onset of leiomyotonic effects on isolated guinea pig ileum. Tonic activity could also be produced in a K+ deficient muscle. Norcaperatic acid was competitive inhibitors of the enzyme aconitase.",DOI: 10.1002/jps.2600561216
+(24S)-ergost-7-en-3β-ol,Cytotoxicity,"EC50 = 16.44 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+(24S)-ergost-7-en-3β-ol,Cytotoxicity,"EC50 = 15.73 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+(24S)-ergost-7-en-3β-ol,Cytotoxicity,"EC50 = 15.92 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+(24S)-ergost-7-en-3β-ol,Cytotoxicity,"EC50 = 11.86 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+Acylfulvene,Cytotoxicity,"IC50 = 0.415 µM (Colony forming assay, HL-60)",DOI: 10.1021/np960450y
+Acylfulvene,Cytotoxicity,"IC50 = 350 ± 20 nM (Colony forming assay, MV-522 cell line)",DOI: 10.1021/jm0000315
+Dehydroilludin M,Cytotoxicity,"IC50 = 296 ± 8 µM (Colony forming assay, HL-60)",DOI: 10.1021/np960450y
+Pardinol A,Cytotoxicity,"IC50 > 40 μM/l (MTS, HL-60)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol A,Cytotoxicity,"IC50 > 40 μM/l (MTS,SMMC-7721)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol A,Cytotoxicity,"IC50 > 40 μM/l (MTS, A-549)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol A,Cytotoxicity,"IC50 > 40 μM/l (MTS,MCF-7)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol A,Cytotoxicity,"IC50 > 40 μM/l (MTS, SW480)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol B,Cytotoxicity,"IC50 = 8.3 ± 1.81 μM/l (MTS, HL-60)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol B,Cytotoxicity,"IC50 = 15.0 ± 2.56 μM/l (MTS, SMMC-7721)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol B,Cytotoxicity,"IC50 = 14.4 ± 0.45 μM/l (MTS, A-549)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol B,Cytotoxicity,"IC50 = 12.7 ± 0.94 μM/l (MTS, MCF-7)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol B,Cytotoxicity,"IC50 = 15.0 ± 1.15μM/l (MTS, SW480)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol C,Cytotoxicity,"IC50 > 40 μM/l (MTS, HL-60)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol C,Cytotoxicity,"IC50 > 40 μM/l (MTS,SMMC-7721)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol C,Cytotoxicity,"IC50 > 40 μM/l (MTS, A-549)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol C,Cytotoxicity,"IC50 > 40 μM/l (MTS,MCF-7)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol C,Cytotoxicity,"IC50 > 40 μM/l (MTS, SW480)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol D,Cytotoxicity,"IC50 > 40 μM/l (MTS, HL-60)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol D,Cytotoxicity,"IC50 > 40 μM/l (MTS,SMMC-7721)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol D,Cytotoxicity,"IC50 > 40 μM/l (MTS, A-549)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol D,Cytotoxicity,"IC50 > 40 μM/l (MTS,MCF-7)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol D,Cytotoxicity,"IC50 > 40 μM/l (MTS, SW480)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol E,Cytotoxicity,"IC50 = 9.8 ± 0.98 μM/l (MTS, HL-60)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol E,Cytotoxicity,"IC50 = 11.7 ± 1.83 μM/l (MTS, SMMC-7721)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol E,Cytotoxicity,"IC50 = 9.8 ± 1.98 μM/l (MTS, A-549)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol E,Cytotoxicity,"IC50 = 11.9 ± 1.76 μM/l (MTS, MCF-7)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol E,Cytotoxicity,"IC50 = 15.6 ± 1.23 μM/l (MTS, SW480)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol F,Cytotoxicity,"IC50 = 11.2 ± 1.53 μM/l (MTS, HL-60)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol F,Cytotoxicity,"IC50 = 15.6 ± 1.91 μM/l (MTS, SMMC-7721)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol F,Cytotoxicity,"IC50 = 12.6 ± 1.15 μM/l (MTS, A-549)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol F,Cytotoxicity,"IC50 = 10.5 ± 1.48 μM/l (MTS, MCF-7)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol F,Cytotoxicity,"IC50 = 14.1 ± 3.25 μM/l (MTS, SW480)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol G,Cytotoxicity,"IC50 = 18.4 ± 2.22 μM/l (MTS, HL-60)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol G,Cytotoxicity,"IC50 = 33.3 ± 0.55 μM/l (MTS, SMMC-7721)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol G,Cytotoxicity,"IC50 = 25.6 ± 3.32 μM/l (MTS, A-549)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol G,Cytotoxicity,"IC50 = 32.8 ± 2.44 μM/l(MTS,MCF-7)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol G,Cytotoxicity,"IC50 > 40 μM/l (MTS, SW480)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol H,Cytotoxicity,"IC50 = 15.5 ± 1.35 μM/l (MTS, HL-60)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol H,Cytotoxicity,"IC50 = 13.0 ± 2.45 μM/l (MTS, SMMC-7721)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol H,Cytotoxicity,"IC50 = 11.8 ± 1.54 μM/l (MTS, A-549)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol H,Cytotoxicity,"IC50 = 11.8 ± 2.67 μM/l (MTS, MCF-7)",DOI: 10.1016/j.phytochem.2018.05.002
+Pardinol H,Cytotoxicity,"IC50 = 16.3 ± 1.32 μM/l (MTS, SW480)",DOI: 10.1016/j.phytochem.2018.05.002
+Saponaceol B,Cytotoxicity,"IC50 > 40 μM/l (MTS, HL-60)",DOI: 10.1016/j.phytochem.2018.05.002
+Saponaceol B,Cytotoxicity,"IC50 > 40 μM/l (MTS,SMMC-7721)",DOI: 10.1016/j.phytochem.2018.05.002
+Saponaceol B,Cytotoxicity,"IC50 = 28.2 ± 2.36 μM/l (MTS, A-549)",DOI: 10.1016/j.phytochem.2018.05.002
+Saponaceol B,Cytotoxicity,"IC50 > 40 μM/l (MTS,MCF-7)",DOI: 10.1016/j.phytochem.2018.05.002
+Saponaceol B,Cytotoxicity,"IC50 > 40 μM/l (MTS, SW480)",DOI: 10.1016/j.phytochem.2018.05.002
+(9E)-8-Oxo-9-octadecenoic acid (ACI),Cytotoxicity,"IC50 = 311.3 ± 2.0 μM (WST-1, A549)",DOI: 10.1080/14786419.2019.1586699
+(9E)-8-Oxo-9-octadecenoic acid (ACI),Cytotoxicity,"IC50 = 321.0 ± 2.7 μM (WST-1, H1264)",DOI: 10.1080/14786419.2019.1586699
+(9E)-8-Oxo-9-octadecenoic acid (ACI),Cytotoxicity,"IC50 = 278.3 ± 4.0 μM (WST-1, H1299)",DOI: 10.1080/14786419.2019.1586699
+(9E)-8-Oxo-9-octadecenoic acid (ACI),Cytotoxicity,"IC50 = 255.7 ± 0.4 μM (WST-1, Calu-6)",DOI: 10.1080/14786419.2019.1586699
+(10E)-9-Oxo-10-octadecenoic acid (ACI),Cytotoxicity,"IC50 = 322.5 ± 0.9 μM (WST-1, A549)",DOI: 10.1080/14786419.2019.1586699
+(10E)-9-Oxo-10-octadecenoic acid (ACI),Cytotoxicity,"IC50 = 321.5 ± 2.9 μM (WST-1, H1264)",DOI: 10.1080/14786419.2019.1586699
+(10E)-9-Oxo-10-octadecenoic acid (ACI),Cytotoxicity,"IC50 = 293.0 ± 6.0 μM (WST-1, H1299)",DOI: 10.1080/14786419.2019.1586699
+(10E)-9-Oxo-10-octadecenoic acid (ACI),Cytotoxicity,"IC50 = 250.2 ± 8.8 μM (WST-1, Calu-6)",DOI: 10.1080/14786419.2019.1586699
+Oleic Acid,General Toxicity,"LD50 = 140 µM (-, Pimephales promelas)",DOI: 10.1021/tx980273w
+Oleic Acid,General Toxicity,"LD50 = 2.4 mg/kg (Intravenous, Rattus norvegicus)",PMID: 7234970
+"9,12,13-Trihydroxyoctadeca-10(E),15(Z)-dienoic acid",Cytotoxicity,"IC50 = 16.30 μM (SRB, SK-MEL-2)",DOI: 10.3184/174751916X14546877525997
+Palmitic acid,Cytotoxicity,"EC50 = 500 µM (-, Mutant S49 cell line)",DOI: 10.1021/jm00193a012
+Palmitic acid,Cytotoxicity,"IC50 = 52.7 μg/ml (AlamarBlue Assay, L6)",DOI: 10.1016/j.bmc.2010.08.055
+Palmitic acid,Cytotoxicity,"IC50 = 132 µM (MTT, HL-60)",DOI: 10.1248/bpb.31.1933
+Palmitic acid,Cytotoxicity,"Cell viability = 6.52 % at 0.2 nM (MTT, HepG2)",DOI: 10.1016/j.bbrc.2009.01.163
+Palmitic acid,Cytotoxicity,"Cell viability = 26.5 % at 0.4 nM (MTT, HepG2)",DOI: 10.1016/j.bbrc.2009.01.163
+Palmitic acid,Cytotoxicity,"Inhibition = 73.8 % at 10 μg/mL (-, BONE MARROW CELLS)",DOI: 10.1016/j.bmc.2013.05.013
+"9-Octadecenoic acid-2′,3′-dihydroxypropyl ester",Cytotoxicity,"IC50 = 366.7 ± 1.4 μM (WST-1, Calu-6)",DOI: 10.1080/14786419.2019.1586699
+"(2′S) -1-O-(6,6-dimethoxyhexanol)-glycerol",Cytotoxicity,"IC50 = 26.43 μM (WST-1, SK-MEL-2)",DOI: 10.3184/174751916X14546877525997
+"(1R,2R)-2-Hydroxy-1-methylpropyl (11Z)-11-eicosenoate",Cytotoxicity,"IC50 = 4.97 μM (SRB, A549)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2R)-2-Hydroxy-1-methylpropyl (11Z)-11-eicosenoate",Cytotoxicity,"IC50 = 3.65 μM (SRB, Hs746T)4",DOI: 10.1007/s11745-012-3657-2
+"(1R,2R)-2-Hydroxy-1-methylpropyl (11Z)-11-eicosenoate",Cytotoxicity,"IC50 = 12.51 μM (SRB, H3122)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2R)-2-Hydroxy-1-methylpropyl (11Z)-11-eicosenoate",Cytotoxicity,"IC50 = 30.97 μM (SRB, HUVEC)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2S)-2-Hydroxy-1-methylpropyl (11Z)-11-eicosenoate",Cytotoxicity,"IC50 = 6.02 μM (SRB, A549)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2S)-2-Hydroxy-1-methylpropyl (11Z)-11-eicosenoate",Cytotoxicity,"IC50 = 5.37 μM (SRB, Hs746T)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2S)-2-Hydroxy-1-methylpropyl (11Z)-11-eicosenoate",Cytotoxicity,"IC50 = 9.07 μM (SRB, H3122)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2S)-2-Hydroxy-1-methylpropyl (11Z)-11-eicosenoate",Cytotoxicity,"IC50 = 42.92 μM (SRB, HUVEC)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2R)-2-Hydroxy-1-methylpropyl eicosanoate",Cytotoxicity,"IC50 = 4.04 μM (SRB, A549)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2R)-2-Hydroxy-1-methylpropyl eicosanoate",Cytotoxicity,"IC50 = 2.77 μM (SRB, Hs746T)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2R)-2-Hydroxy-1-methylpropyl eicosanoate",Cytotoxicity,"IC50 = 8.26 μM (SRB, H3122)",DOI: 10.1007/s11745-012-3657-2
+"(1R,2R)-2-Hydroxy-1-methylpropyl eicosanoate",Cytotoxicity,"IC50 = 41.71 μM (SRB, HUVEC)",DOI: 10.1007/s11745-012-3657-2
+"8,9-dihydrosoyacerebroside I",Cytotoxicity,"EC50 > 30.0 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+"8,9-dihydrosoyacerebroside I",Cytotoxicity,"EC50 > 30.0 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+"8,9-dihydrosoyacerebroside I",Cytotoxicity,"EC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+"8,9-dihydrosoyacerebroside I",Cytotoxicity,"EC50 > 30.0 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+Soyacerebroside I,Cytotoxicity,"EC50 > 30.0 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+Soyacerebroside I,Cytotoxicity,"EC50 = 24.17 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+Soyacerebroside I,Cytotoxicity,"EC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+Soyacerebroside I,Cytotoxicity,"EC50 = 28.61 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+Vulpinic acid,Cytotoxicity,"IC50 = 41.86 ± 2.96 μM (WST-1, A549)",DOI: 10.1039/C7RA05059C
+Vulpinic acid,Cytotoxicity,"IC50 = 30.67 ± 3.54 μM (WST-1, NCI-H1264)",DOI: 10.1039/C7RA05059C
+Vulpinic acid,Cytotoxicity,"IC50 = 86.61 ± 2.72 μM (WST-1, NCI-H1299)",DOI: 10.1039/C7RA05059C
+Vulpinic acid,Cytotoxicity,"IC50 = 79.22 ± 1.16 μM (WST-1,Calu-6)",DOI: 10.1039/C7RA05059C
+Vulpinic acid,Cytotoxicity,"IC50 = 146.17 ± 8.36 μM (WST-1, PANC-1)",DOI: 10.1039/C7RA05059C
+Vulpinic acid,Cytotoxicity,"IC50 = 21.65 ± 0.16 μM (WST-1, MIAPaCa-2)",DOI: 10.1039/C7RA05059C
+Vulpinic acid,Cytotoxicity,"IC50 = 60.35 ± 4.18 μM (WST-1, Hep G2)",DOI: 10.1039/C7RA05059C
+"(1R,2R)-1-phenylpropane-1,2-diol",Cytotoxicity,"IC50 > 30.0 μM (SRB, A549)",DOI: 10.1038/ja.2010.84
+"(1R,2R)-1-phenylpropane-1,2-diol",Cytotoxicity,"IC50 > 30.0 μM (SRB,SK-OV-3)",DOI: 10.1038/ja.2010.84
+"(1R,2R)-1-phenylpropane-1,2-diol",Cytotoxicity,"IC50 = 23.5 μM (SRB, SK-MEL-2)",DOI: 10.1038/ja.2010.84
+"(1R,2R)-1-phenylpropane-1,2-diol",Cytotoxicity,"IC50 > 30.0 μM (SRB, HCT-15)",DOI: 10.1038/ja.2010.84
+"2-Allyl-1,4,5-trimethoxybenzene",Cytotoxicity,"IC50 > 30.0 μM (SRB, A549)",DOI: 10.3184/174751916X14546877525997
+"2-Allyl-1,4,5-trimethoxybenzene",Cytotoxicity,"IC50 > 30.0 μM (SRB, SK-OV-3)",DOI: 10.3184/174751916X14546877525997
+"2-Allyl-1,4,5-trimethoxybenzene",Cytotoxicity,"IC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.3184/174751916X14546877525997
+"2-Allyl-1,4,5-trimethoxybenzene",Cytotoxicity,"IC50 > 30.0 μM (SRB, HCT-16)",DOI: 10.3184/174751916X14546877525997
+"2-Allyl-1,4,5-trimethoxybenzene",Cytotoxicity,"IC50 = 85.5 µM (SRB, SK-MEL-2)",DOI: 10.3109/14756366.2010.496363
+"2-Allyl-1,4,5-trimethoxybenzene",Cytotoxicity,"IC50 = 96.3 µM (SRB, A549)",DOI: 10.3109/14756366.2010.496363
+Pulveraven A,Cytotoxicity,"IC50 = 71.74 ± 3.61 μM (MTT, MCF-7)",DOI: 10.1038/s41429-021-00435-0
+Russuphelin A,Cytotoxicity,"IC50 = 2.47 μg/ml (Cell Counting Method, L1210)",DOI: 10.1248/cpb.40.3185
+Russuphelin A,Cytotoxicity,"IC50 = 10.16 μg/ml (Cell Counting Method, Colon 26)",DOI: 10.1248/cpb.40.3185
+Russuphelin A,Cytotoxicity,"IC50 = 4.64 μg/ml (Cell Counting Method, P388)",DOI: 10.1248/cpb.40.3185
+Russuphelin A,Cytotoxicity,"IC50 = 2.96 μg/ml (Cell Counting Method, P388/ADM)",DOI: 10.1248/cpb.40.3185
+Russuphelin A,Cytotoxicity,"IC50 = 2.09 μg/ml (Cell Counting Method, KB)",DOI: 10.1248/cpb.40.3185
+Russuphelin A,Cytotoxicity,"IC50 = 6.28 μg/ml (Cell Counting Method, B16)",DOI: 10.1248/cpb.40.3185
+Russuphelin A,Cytotoxicity,"IC50 = 0.48 μg/ml (Cell Counting Method, A549)",DOI: 10.1248/cpb.40.3185
+Russuphelin A,Cytotoxicity,"IC50 = 0.79 μg/ml (Cell Counting Method, DLD-1)",DOI: 10.1248/cpb.40.3185
+Russuphelin A,Cytotoxicity,"IC50 = 0.16 μg/ml (Cell Counting Method, K562)",DOI: 10.1248/cpb.40.3185
+Russuphelin A,Cytotoxicity,"IC50 = 0.49 μg/ml (Cell Counting Method, CCRF-CEM)",DOI: 10.1248/cpb.40.3185
+Russuphelin B,Cytotoxicity,"IC50 = 15.4 μg/ml (Cell Counting Method, P388 leukemia cells)",DOI: 10.1248/cpb.41.1726
+Russuphelin C,Cytotoxicity,"IC50 = 0.94 μg/ml (Cell Counting Method, P388 leukemia cells)",DOI: 10.1248/cpb.41.1726
+Russuphelin D,Cytotoxicity,"IC50 = 12.1 μg/ml (Cell Counting Method, P388 leukemia cells)",DOI: 10.1248/cpb.41.1726
+Phenylethyl hydrodisulfide,Cytotoxicity,"IC50 > 30 µM (SRB, A549)",DOI: 10.1038/ja.2015.2
+Phenylethyl hydrodisulfide,Cytotoxicity,"IC50 > 30 µM (SRB, SK-OV-3)",DOI: 10.1038/ja.2015.2
+Phenylethyl hydrodisulfide,Cytotoxicity,"IC50 > 30 µM (SRB, HCT-15)",DOI: 10.1038/ja.2015.2
+Phenylethyl hydrodisulfide,Cytotoxicity,"IC50 = 13.55 µM (SRB,  SK-MEL-2)",DOI: 10.1038/ja.2015.2
+Neoilludin A,Cytotoxicity,"IC50 = 1.0 μg/ml (-, P388)",DOI: 10.1246/cl.1999.1113
+Neoilludin B,Cytotoxicity,"IC50 = 3.2 μg/ml (-, P388)",DOI: 10.1246/cl.1999.1113
+Lactarolide A,Cytotoxicity,"IC50 = 22.9 μM (SRB, A549)",DOI: 10.1016/j.bmcl.2010.07.119
+Lactarolide A,Cytotoxicity,"IC50 > 30 μM (SRB, SK-OV-3)",DOI: 10.1016/j.bmcl.2010.07.119
+Lactarolide A,Cytotoxicity,"IC50 = 28.3 μM (SRB, SK-MEL-2)",DOI: 10.1016/j.bmcl.2010.07.119
+Lactarolide A,Cytotoxicity,"IC50 = 28.6 μM (SRB, HCT-15)",DOI: 10.1016/j.bmcl.2010.07.119
+Lactarorufin A,Cytotoxicity,"IC50 = 27.0 μM (SRB, A549)",DOI: 10.1016/j.bmcl.2010.07.119
+Lactarorufin A,Cytotoxicity,"IC50 > 30.0μM (SRB,SK-OV-3)",DOI: 10.1016/j.bmcl.2010.07.119
+Lactarorufin A,Cytotoxicity,"IC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1016/j.bmcl.2010.07.119
+Lactarorufin A,Cytotoxicity,"IC50 = 20.9 μM (SRB, HCT-15)",DOI: 10.1016/j.bmcl.2010.07.119
+Miophytocen D,Cytotoxicity,"IC50 > 10.0 μM (SRB, Bt549)",DOI: 10.1021/acs.jnatprod.8b00823
+Miophytocen D,Cytotoxicity,"IC50 > 10.0 μM (SRB, HCC70)",DOI: 10.1021/acs.jnatprod.8b00823
+Miophytocen D,Cytotoxicity,"IC50 > 10.0 μM (SRB, MDA-MB-231)",DOI: 10.1021/acs.jnatprod.8b00823
+Miophytocen D,Cytotoxicity,"IC50 > 10.0 μM (SRB, MDA-MB-468)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin F,Cytotoxicity,"IC50 > 10.0 μM (SRB, Bt549)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin F,Cytotoxicity,"IC50 > 10.0 μM (SRB, HCC70)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin F,Cytotoxicity,"IC50 > 10.0 μM (SRB, MDA-MB-231)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin F,Cytotoxicity,"IC50 > 10.0 μM (SRB, MDA-MB-468)",DOI: 10.1021/acs.jnatprod.8b00823
+Satratoxin I,Cytotoxicity,"IC50 = 1.8 μM (SRB, Bt549)",DOI: 10.1021/acs.jnatprod.8b00823
+Satratoxin I,Cytotoxicity,"IC50 = 7.7 μM (SRB, HCC70)",DOI: 10.1021/acs.jnatprod.8b00823
+Satratoxin I,Cytotoxicity,"IC50 = 3.6 μM (SRB, MDA-MB-231)",DOI: 10.1021/acs.jnatprod.8b00823
+Satratoxin I,Cytotoxicity,"IC50 > 10.0 μM (SRB, MDA-MB-468)",DOI: 10.1021/acs.jnatprod.8b00823
+12′-Episatratoxin H,Cytotoxicity,"IC50 = 0.0003 μM (SRB, Bt549)",DOI: 10.1021/acs.jnatprod.8b00823
+12′-Episatratoxin H,Cytotoxicity,"IC50 = 0.001 μM (SRB, HCC70)",DOI: 10.1021/acs.jnatprod.8b00823
+12′-Episatratoxin H,Cytotoxicity,"IC50 = 0.0004 μM (SRB, MDA-MB-231)",DOI: 10.1021/acs.jnatprod.8b00823
+12′-Episatratoxin H,Cytotoxicity,"IC50 = 0.003 μM (SRB, MDA-MB-468)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin L 2,Cytotoxicity,"IC50 > 10.0 μM (SRB, Bt549)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin L 2,Cytotoxicity,"IC50 > 10.0 μM (SRB, HCC70)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin L 2,Cytotoxicity,"IC50 > 10.0 μM (SRB, MDA-MB-231)",DOI: 10.1021/acs.jnatprod.8b00823
+Roridin L 2,Cytotoxicity,"IC50 > 10.0 μM (SRB, MDA-MB-468)",DOI: 10.1021/acs.jnatprod.8b00823
+Trichoverritone,Cytotoxicity,"IC50 = 0.004 μM (SRB, Bt549)",DOI: 10.1021/acs.jnatprod.8b00823
+Trichoverritone,Cytotoxicity,"IC50 = 0.02 μM (SRB, HCC70)",DOI: 10.1021/acs.jnatprod.8b00823
+Trichoverritone,Cytotoxicity,"IC50 = 0.02 μM (SRB, MDA-MB-231)",DOI: 10.1021/acs.jnatprod.8b00823
+Trichoverritone,Cytotoxicity,"IC50 = 0.08 μM (SRB, MDA-MB-468)",DOI: 10.1021/acs.jnatprod.8b00823
+Isotrichodermol,Cytotoxicity,"IC50 = 0.424 μM (MTT, A549)",DOI: 10.1007/s12272-020-01213-6
+Isotrichodermol,Cytotoxicity,"IC50 = 0.630 μM (MTT, PC3)",DOI: 10.1007/s12272-020-01213-6
+Isotrichojunol,Cytotoxicity,"IC50 = 1.572 μM (MTT, A549)",DOI: 10.1007/s12272-020-01213-6
+Isotrichojunol,Cytotoxicity,"IC50 = 1.711 μM (MTT, PC3)",DOI: 10.1007/s12272-020-01213-6
+"8a,13-dihydroxy-marasm-5-oic acid g-lactone",Cytotoxicity,"IC50 = 29.4 μM (SRB, A549)",DOI: 10.1038/ja.2010.84
+"8a,13-dihydroxy-marasm-5-oic acid g-lactone",Cytotoxicity,"IC50 = 28.7 μM (SRB, SK-OV-3)",DOI: 10.1038/ja.2010.84
+"8a,13-dihydroxy-marasm-5-oic acid g-lactone",Cytotoxicity,"IC50 = 22.5 μM (SRB, SK-MEL-2)",DOI: 10.1038/ja.2010.84
+"8a,13-dihydroxy-marasm-5-oic acid g-lactone",Cytotoxicity,"IC50 > 30.0 μM (SRB, HCT-15)",DOI: 10.1038/ja.2010.84
+"7α,8α-Dihydroxy-5,13-marasmanolide",Cytotoxicity,"IC50 = 25.7 μM (SRB, A549)",DOI: 10.1038/ja.2010.84
+"7α,8α-Dihydroxy-5,13-marasmanolide",Cytotoxicity,"IC50 > 30.0 μM (SRB, SK-OV-3)",DOI: 10.1038/ja.2010.84
+"7α,8α-Dihydroxy-5,13-marasmanolide",Cytotoxicity,"IC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1038/ja.2010.84
+"7α,8α-Dihydroxy-5,13-marasmanolide",Cytotoxicity,"IC50 = 20.9 μM (SRB, HCT-15)",DOI: 10.1038/ja.2010.84
+Russulfoen,Cytotoxicity,"IC50 = 23.0 μM (SRB, A549)",DOI: 10.1038/ja.2010.84
+Russulfoen,Cytotoxicity,"IC50 = 28.2 μM (SRB, SK-OV-3)",DOI: 10.1038/ja.2010.84
+Russulfoen,Cytotoxicity,"IC50 = 15.4 μM (SRB, SK-MEL-2)",DOI: 10.1038/ja.2010.84
+Russulfoen,Cytotoxicity,"IC50 > 30.0 μM (SRB, HCT-15)",DOI: 10.1038/ja.2010.84
+Nematolin,General Toxicity,"LD50 = 400 mg/kg (Intravenous, Mus musculus)",DOI: 10.1248/cpb.15.2009
+Nambinone A,Cytotoxicity,"IC50 = 69.0 μM (SRB, NCI-H187)",DOI: 10.1016/j.tet.2012.07.057
+Fasciculol B,Cytotoxicity,"IC50 = 7.85 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol B,Cytotoxicity,"IC50 = 8.53 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol B,Cytotoxicity,"IC50 = 5.17 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol B,Cytotoxicity,"IC50 = 8.22 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol C,Cytotoxicity,"IC50 = 2.37 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol C,Cytotoxicity,"IC50 = 2.82 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol C,Cytotoxicity,"IC50 = 2.29 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol C,Cytotoxicity,"IC50 = 3.06 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol D ,Cytotoxicity,"IC50 > 30 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol D ,Cytotoxicity,"IC50 > 30 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol D ,Cytotoxicity,"IC50 = 9.16 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol D ,Cytotoxicity,"IC50 > 30 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculic acid B,Cytotoxicity,"IC50 = 27.20 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculic acid B,Cytotoxicity,"IC50 = 22.17 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculic acid B,Cytotoxicity,"IC50 = 16.60 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculic acid B,Cytotoxicity,"IC50 = 28.48 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol H,Cytotoxicity,"IC50 > 30 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol H,Cytotoxicity,"IC50 = 9.86 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol H,Cytotoxicity,"IC50 > 30 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol H,Cytotoxicity,"IC50 > 30 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol I,Cytotoxicity,"IC50 > 30 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol I,Cytotoxicity,"IC50 = 7.98 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol I,Cytotoxicity,"IC50 > 30 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol I,Cytotoxicity,"IC50 > 30 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol J,Cytotoxicity,"IC50 > 30 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol J,Cytotoxicity,"IC50 > 30 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol J,Cytotoxicity,"IC50 > 30 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol J,Cytotoxicity,"IC50 > 30 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol K,Cytotoxicity,"IC50 > 30 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol K,Cytotoxicity,"IC50 > 30 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol K,Cytotoxicity,"IC50 > 30 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol K,Cytotoxicity,"IC50 > 30 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol L,Cytotoxicity,"IC50 = 6.59 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol L,Cytotoxicity,"IC50 = 7.08 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol L,Cytotoxicity,"IC50 = 8.26 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol L,Cytotoxicity,"IC50 = 8.53 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol M,Cytotoxicity,"IC50 = 3.99 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol M,Cytotoxicity,"IC50 = 7.36 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol M,Cytotoxicity,"IC50 = 4.77 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol M,Cytotoxicity,"IC50 = 8.50 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Fasciculol G,Cytotoxicity,"IC50 > 30 μM (SRB, A549)",DOI: 10.1021/np300801x
+Fasciculol G,Cytotoxicity,"IC50 > 30 μM (SRB, SK-OV-3)",DOI: 10.1021/np300801x
+Fasciculol G,Cytotoxicity,"IC50 = 8.60 μM (SRB, SK-MEL-2)",DOI: 10.1021/np300801x
+Fasciculol G,Cytotoxicity,"IC50 > 30 μM (SRB, HCT-15)",DOI: 10.1021/np300801x
+Clavilactone A,Cytotoxicity,"IC50 = 32.14 ± 1.52 μM (MTT, HepG2)",DOI: 10.1039/C9QO01005J
+Clavilactone A,Cytotoxicity,"IC50 > 50 μM (MTT, A549)",DOI: 10.1039/C9QO01005J
+Clavilactone A,Cytotoxicity,"IC50 > 100 μM (MTT, GES-1)",DOI: 10.1039/C9QO01005J
+Clavilactone A,Cytotoxicity,"IC50 = 2 μM (Soft agar assay, NIHPTC1)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone A,Cytotoxicity,"IC50 = 2.8 μM (Soft agar assay, NIHH-RAS)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone B,Cytotoxicity,"IC50 = 3.6 ± 1.31 μM (SRB, A431)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone B,Cytotoxicity,"IC50 = 6.1 ± 1.66 μM (SRB, IGROV-1)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone B,Cytotoxicity,"IC50 = 21.9 ± 10 μM (SRB, SKOV-3)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone B,Cytotoxicity,"IC50 = 2 μM (Soft agar assay, NIHPTC1)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone B,Cytotoxicity,"IC50 = 1.3 μM (Soft agar assay, NIHH-RAS)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone D,Cytotoxicity,"IC50 = 9.32 ± 0.74 μM (MTT, HepG2)",DOI: 10.1039/C9QO01005J
+Clavilactone D,Cytotoxicity,"IC50 = 24.17 ± 0.92 μM (MTT, A549)",DOI: 10.1039/C9QO01005J
+Clavilactone D,Cytotoxicity,"IC50 = 38.13 ± 1.29 μM (MTT, GES-1)",DOI: 10.1039/C9QO01005J
+Clavilactone D,Cytotoxicity,"IC50 = 0.1 ± 0.05 μM (SRB, A431)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone D,Cytotoxicity,"IC50 = 0.8 ± 0.22 μM (SRB, IGROV-1)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone D,Cytotoxicity,"IC50 = 1 ± 0.44 μM (SRB, SKOV-3)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone D,Cytotoxicity,"IC50 = 0.1 μM (Soft agar assay, NIHPTC1)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone D,Cytotoxicity,"IC50 = 0.2 μM (Soft agar assay, NIHH-RAS)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone D,Cytotoxicity,"IC50 = 0.02 μM (Soft agar assay, NIHHER1)",DOI: 10.1016/S0006-2952(00)00278-1
+Clavilactone F,Cytotoxicity,"IC50 = 26.45 ± 0.44 μM (MTT, HepG2)",DOI: 10.1039/C9QO01005J
+Clavilactone F,Cytotoxicity,"IC50 = 18.22 ± 1.35 μM (MTT, A549)",DOI: 10.1039/C9QO01005J
+Clavilactone F,Cytotoxicity,"IC50 = 33.27 ± 2.11 μM (MTT, GES-1)",DOI: 10.1039/C9QO01005J
+Clavilactone G,Cytotoxicity,"IC50 > 100 μM (MTT, Hela)",DOI: 10.3390/molecules24224015
+Clavilactone G,Cytotoxicity,"IC50 = 62.2 ± 0.4 μM (MTT, SGC-7901)",DOI: 10.3390/molecules24224015
+Clavilactone G,Cytotoxicity,"IC50 > 100 μM (MTT, SHG-44)",DOI: 10.3390/molecules24224015
+Clavilactone H,Cytotoxicity,"IC50 = 23.5 ± 0.4 μM (MTT, Hela)",DOI: 10.3390/molecules24224015
+Clavilactone H,Cytotoxicity,"IC50 = 14.5 ± 1.2 μM (MTT, SGC-7901)",DOI: 10.3390/molecules24224015
+Clavilactone H,Cytotoxicity,"IC50 = 53.9 ± 2.4 μM (MTT, SHG-44)",DOI: 10.3390/molecules24224015
+Clavilactone I,Cytotoxicity,"IC50 > 100 μM (MTT, Hela)",DOI: 10.3390/molecules24224015
+Clavilactone I,Cytotoxicity,"IC50 = 84.2 ± 3.1 μM (MTT, SGC-7901)",DOI: 10.3390/molecules24224015
+Clavilactone I,Cytotoxicity,"IC50 > 100 μM (MTT, SHG-44)",DOI: 10.3390/molecules24224015
+Clavipine A,Cytotoxicity,"IC50 = 4.28 ± 0.26 μM (MTT, HepG2)",DOI: 10.1039/C9QO01005J
+Clavipine A,Cytotoxicity,"IC50 = 7.49 ± 0.41 μM (MTT, A549)",DOI: 10.1039/C9QO01005J
+Clavipine A,Cytotoxicity,"IC50 = 10.97 ± 0.36 μM (MTT, GES-1)",DOI: 10.1039/C9QO01005J
+Clavipine B,Cytotoxicity,"IC50 = 11.07 ± 0.63 μM (MTT, HepG2)",DOI: 10.1039/C9QO01005J
+Clavipine B,Cytotoxicity,"IC50 = 14.2 ± 0.28 μM (MTT, A549)",DOI: 10.1039/C9QO01005J
+Clavipine B,Cytotoxicity,"IC50 = 26.51 ± 1.20 μM (MTT, GES-1)",DOI: 10.1039/C9QO01005J
+Clavipine C,Cytotoxicity,"IC50 = 19.36 ± 1.24 μM (MTT, HepG2)",DOI: 10.1039/C9QO01005J
+Clavipine C,Cytotoxicity,"IC50 = 13.13 ± 0.97 μM (MTT, A549)",DOI: 10.1039/C9QO01005J
+Clavipine C,Cytotoxicity,"IC50 = 27.02 ± 0.75 μM (MTT, GES-1)",DOI: 10.1039/C9QO01005J
+Clavipol A,Cytotoxicity,"IC50 = 63.2 ± 0.43 μM (MTT, Hela)",DOI: 10.3390/molecules24224015
+Clavipol A,Cytotoxicity,"IC50 = 44.1 ± 0.5 μM (MTT, SGC-7901)",DOI: 10.3390/molecules24224015
+Clavipol A,Cytotoxicity,"IC50 > 100 μM (MTT, SHG-44)",DOI: 10.3390/molecules24224015
+Clavipol B,Cytotoxicity,"IC50 = 38.6 ± 1.3 μM (MTT, Hela)",DOI: 10.3390/molecules24224015
+Clavipol B,Cytotoxicity,"IC50 = 51.2 ± 0.7 μM (MTT, SGC-7901)",DOI: 10.3390/molecules24224015
+Clavipol B,Cytotoxicity,"IC50 > 100 μM (MTT, SHG-44)",DOI: 10.3390/molecules24224015
+"4-(1-methoxyethyl)-5-methyl-2-((2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl)benzene-1,3-diol",Cytotoxicity,"IC50 = 8.5 ± 0.6 μg/ml (SRB, A549)",DOI: 10.1002/cbdv.200800217
+"4-(1-methoxyethyl)-5-methyl-2-((2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl)benzene-1,3-diol",Cytotoxicity,"IC50 = 7.3 ± 0.7 μg/ml (SRB, B16F1)",DOI: 10.1002/cbdv.200800217
+"4-(1-methoxyethyl)-5-methyl-2-((2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl)benzene-1,3-diol",Cytotoxicity,"IC50 = 16.9 ± 1.8 μg/ml (SRB, SK-Mel-2)",DOI: 10.1002/cbdv.200800217
+"4-(1-ethoxyethyl)-5-methyl-2-[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl]benzene-1,3-diol",Cytotoxicity,"IC50 = 9.0 ± 0.9 μg/ml (SRB, A549)",DOI: 10.1002/cbdv.200800217
+"4-(1-ethoxyethyl)-5-methyl-2-[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl]benzene-1,3-diol",Cytotoxicity,"IC50 = 4.3 ± 0.2 μg/ml (SRB, B16F1)",DOI: 10.1002/cbdv.200800217
+"4-(1-ethoxyethyl)-5-methyl-2-[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl]benzene-1,3-diol",Cytotoxicity,"IC50 = 11.9 ± 1.4 μg/ml (SRB, SK-Mel-2)",DOI: 10.1002/cbdv.200800217
+"(2R,4R)-4,5-dimethyl-8-[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl]-3,4-dihydro-2H-chromene-2,7-diol",Cytotoxicity,"IC50 = 5.0 ± 0.7 μg/ml (SRB, A549)",DOI: 10.1002/cbdv.200800217
+"(2R,4R)-4,5-dimethyl-8-[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl]-3,4-dihydro-2H-chromene-2,7-diol",Cytotoxicity,"IC50 = 3.5 ± 0.7 μg/ml (SRB, B16F1)",DOI: 10.1002/cbdv.200800217
+"(2R,4R)-4,5-dimethyl-8-[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trienyl]-3,4-dihydro-2H-chromene-2,7-diol",Cytotoxicity,"IC50 = 13.7 ± 1.2 μg/ml (SRB, SK-Mel-2)",DOI: 10.1002/cbdv.200800217
+Grifolin,Cytotoxicity,"IC50 = 10.5 ± 1.3 μg/ml (SRB, A549)",DOI: 10.1002/cbdv.200800217
+Grifolin,Cytotoxicity,"IC50 = 6.1 ± 0.2 μg/ml (SRB, B16F1)",DOI: 10.1002/cbdv.200800217
+Grifolin,Cytotoxicity,"IC50 > 40 μg/ml (SRB, SK-Mel-2)",DOI: 10.1002/cbdv.200800217
+Neogrifolin,Cytotoxicity,"IC50 = 10.5 ± 0.7 μg/ml (SRB, A549)",DOI: 10.1002/cbdv.200800217
+Neogrifolin,Cytotoxicity,"IC50 = 5.4 ± 0.4 μg/ml (SRB, B16F1)",DOI: 10.1002/cbdv.200800217
+Neogrifolin,Cytotoxicity,"IC50 > 40 μg/ml (SRB, SK-Mel-2)",DOI: 10.1002/cbdv.200800217
+"(2S,3S)-2-[(3E)-4,8-dimethylnona-3,7-dienyl]-2,7-dimethyl-3,4-dihydrochromene-3,5-diol",Cytotoxicity,"IC50 > 40 μg/ml (SRB, A549)",DOI: 10.1002/cbdv.200800217
+"(2S,3S)-2-[(3E)-4,8-dimethylnona-3,7-dienyl]-2,7-dimethyl-3,4-dihydrochromene-3,5-diol",Cytotoxicity,"IC50 > 40 μg/ml (SRB, B16F1)",DOI: 10.1002/cbdv.200800217
+"(2S,3S)-2-[(3E)-4,8-dimethylnona-3,7-dienyl]-2,7-dimethyl-3,4-dihydrochromene-3,5-diol",Cytotoxicity,"IC50 > 40 μg/ml (SRB, SK-Mel-2)",DOI: 10.1002/cbdv.200800217
+Confluentin,Cytotoxicity,"IC50 = 15.05 μM (MTT, HL-60)",DOI: 10.1021/np300751m
+Confluentin,Cytotoxicity,"IC50 = 17.08 μM (MTT, SMMC-7712)",DOI: 10.1021/np300751m
+Confluentin,Cytotoxicity,"IC50 = 18.48 μM (MTT, A549)",DOI: 10.1021/np300751m
+Confluentin,Cytotoxicity,"IC50 = 23.01 μM (MTT, MCF-7)",DOI: 10.1021/np300751m
+Confluentin,Cytotoxicity,"IC50 = 11.0 ± 1.1 μg/ml (SRB, A549)",DOI: 10.1002/cbdv.200800217
+Confluentin,Cytotoxicity,"IC50 = 6.0 ± 0.8 μg/ml (SRB, B16F1)",DOI: 10.1002/cbdv.200800217
+Confluentin,Cytotoxicity,"IC50 = 8.0 ± 1.1 μg/ml (SRB, SK-Mel-2)",DOI: 10.1002/cbdv.200800217
+Gymnoprenol A9,Cytotoxicity,"IC50 = 26.30 μM/l (SRB, A549)",DOI: 10.1038/ja.2011.122
+Gymnoprenol A9,Cytotoxicity,"IC50 = 14.32 μM/l (SRB, SK-OV-3)",DOI: 10.1038/ja.2011.122
+Gymnoprenol A9,Cytotoxicity,"IC50 = 12.80 μM/l (SRB, SK-MEL-2)",DOI: 10.1038/ja.2011.122
+Gymnoprenol A9,Cytotoxicity,"IC50 = 25.14 μM/l (SRB, HCT-15)",DOI: 10.1038/ja.2011.122
+Gymnopilin A9,Cytotoxicity,"IC50 = 15.28 μM/l (SRB, A549)",DOI: 10.1038/ja.2011.122
+Gymnopilin A9,Cytotoxicity,"IC50 = 11.14 μM/l (SRB, SK-OV-3)",DOI: 10.1038/ja.2011.122
+Gymnopilin A9,Cytotoxicity,"IC50 = 3.26 μM/l (SRB, SK-MEL-2)",DOI: 10.1038/ja.2011.122
+Gymnopilin A9,Cytotoxicity,"IC50 = 9.96 μM/l (SRB, HCT-15)",DOI: 10.1038/ja.2011.122
+Gymnopilin A10,Cytotoxicity,"IC50 = 7.15 μM/l (SRB, A549)",DOI: 10.1038/ja.2011.122
+Gymnopilin A10,Cytotoxicity,"IC50 = 10.54 μM/l (SRB, SK-OV-3)",DOI: 10.1038/ja.2011.122
+Gymnopilin A10,Cytotoxicity,"IC50 = 4.20 μM/l (SRB, SK-MEL-2)",DOI: 10.1038/ja.2011.122
+Gymnopilin A10,Cytotoxicity,"IC50 = 16.41 μM/l (SRB, HCT-15)",DOI: 10.1038/ja.2011.122
+Gymnopilin K,Cytotoxicity,"IC50 = 10.80 μM/l (SRB, A549)",DOI: 10.1038/ja.2011.122
+Gymnopilin K,Cytotoxicity,"IC50 = 9.59 μM/l (SRB, SK-OV-3)",DOI: 10.1038/ja.2011.122
+Gymnopilin K,Cytotoxicity,"IC50 = 6.74 μM/l (SRB, SK-MEL-2)",DOI: 10.1038/ja.2011.122
+Gymnopilin K,Cytotoxicity,"IC50 = 12.02 μM/l (SRB, HCT-15)",DOI: 10.1038/ja.2011.122
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β,9α-tetrol",Cytotoxicity,"IC50 = 12.16 μM (SRB, SK-OV-3)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β,9α-tetrol",Cytotoxicity,"IC50 = 10.39 μM (SRB, SK-MEL-2)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β,9α-tetrol",Cytotoxicity,"IC50 = 10.83 μM (SRB, A549)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β,9α-tetrol",Cytotoxicity,"IC50 = 13.20 μM (SRB, HCT-15)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"IC50 > 10 µM (-, Vero)",DOI: 10.3390/md15070217
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"IC50 > 10 µM (-, RD)",DOI: 10.3390/md15070217
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"IC50 > 10 µM (-, HEP-2)",DOI: 10.3390/md15070217
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"IC50 > 10 µM (-, HeLa)",DOI: 10.3390/md15070217
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"IC50 > 10 µM (-, A549)",DOI: 10.3390/md15070217
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"CC50 = 26 µM (CCK, SUP-T1)",DOI: 10.3390/molecules24152821
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"CC50 > 100 µM (CCK, 293GT)",DOI: 10.3390/molecules24152821
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"IC50 > 50 μg/mL (MTT, MCF-7)",DOI: 10.3390/md14050084
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"IC50 > 50 μg/mL (MTT, NCI-H460)",DOI: 10.3390/md14050084
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"IC50 > 50 μg/mL (MTT, SF-268)",DOI: 10.3390/md14050084
+"(22E,24R)-Ergosta-7,22-diene-3β,5α,6β-triol",Cytotoxicity,"IC50 = 0.12 µM (SRB, P388)",DOI: 10.1007/BF02980236
+"3β,5α,9α-trihydroxyergosta-7,22-diene-6-one",Cytotoxicity,"IC50 = 4.1 µM (MTT, HL60)",DOI: 10.1248/cpb.c19-01009
+"(22E,24R)-3α-Ureido-ergosta-4,6,8(14),22-tetraene",Cytotoxicity,"IC50 = 7.60 μg/ml (MTT, Kato III)",DOI: 10.1248/cpb.49.1030
+"5α,8α-Epidioxy-(22E,24R)-ergosta-6,22-diene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 14.27 μg/ml (MTT, Kato III)",DOI: 10.1248/cpb.49.1030
+"5α,8α-Epidioxy-(22E,24R)-ergosta-6,22-diene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 14.21 μM (SRB, A549)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"5α,8α-Epidioxy-(22E,24R)-ergosta-6,22-diene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 15.11μM (SRB,SK-OV-3)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"5α,8α-Epidioxy-(22E,24R)-ergosta-6,22-diene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 9.01 μM (SRB, SK-MEL-2)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"5α,8α-Epidioxy-(22E,24R)-ergosta-6,22-diene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 17.49 μM (SRB, HCT-15)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"EC50 = 10.20 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"EC50 = 6.71 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"EC50 = 9.70 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"EC50 = 11.43 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 14.0 μM (SRB, A549)",DOI: 10.1038/ja.2009.30
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 17.9 μM (SRB, SK-OV-3)",DOI: 10.1038/ja.2009.30
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 12.7 μM (SRB, SK-MEL-2)",DOI: 10.1038/ja.2009.30
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 10.0 μM (SRB, HCT-15)",DOI: 10.1038/ja.2009.30
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 10.02 μM (SRB, A549)",DOI: 10.3184/174751916x14546877525997
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 20.41 μM (SRB, SK-OV-3)",DOI: 10.3184/174751916x14546877525997
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 6.45 μM (SRB, SK-MEL-2)",DOI: 10.3184/174751916x14546877525997
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 11.46 μM (SRB, HCT-15)",DOI: 10.3184/174751916x14546877525997
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 25 µg/ml (WST-1, WiDr cell line)",DOI: 10.1248/bpb.31.949
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 25 µg/ml (WST-1, CACO-2)",DOI: 10.1248/bpb.31.949
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 25 µg/ml (WST-1, DLD-1)",DOI: 10.1248/bpb.31.949
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 25 µg/ml (WST-1, Colo-320)",DOI: 10.1248/bpb.31.949
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 20 µM (MTT, SW 620)",DOI: 10.3390/md17030178
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 20 µM (MTT, Panc-1)",DOI: 10.3390/md17030178
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 20 µM (MTT, MDA-MB-231)",DOI: 10.3390/md17030178
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 20 µM (MTT, MCF-7)",DOI: 10.3390/md17030178
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 20 µM (MTT, HepG2)",DOI: 10.3390/md17030178
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 20 µM (MTT, HeLa)",DOI: 10.3390/md17030178
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 20 µM (MTT, HCT 116)",DOI: 10.3390/md17030178
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 20 µM (MTT, ECA-109)",DOI: 10.3390/md17030178
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 17.25 µM (MTT, SK-HEP-1)",DOI: 10.1016/j.bmcl.2017.06.048
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 19.17 µM (MTT, MDA-MB-231)",DOI: 10.1016/j.bmcl.2017.06.048
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 23.34 µM (MTT, MCF-7)",DOI: 10.1016/j.bmcl.2017.06.048
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 15.8 µM (MTT, HepG2)",DOI: 10.1016/j.bmcl.2017.06.048
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"CC50 = 42.9 ± 2.2 µM (MTT, Peritoneal macrophages)",DOI: 10.3390/molecules21081045
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 < 50 µM (LDH, NPC-TW01)",DOI: 10.3390/molecules23112799
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 10 µM (LDH, Neutrophils)",DOI: 10.3390/molecules23112799
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 50 µM (LDH, NCI-H226)",DOI: 10.3390/molecules23112799
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 > 50 µM (LDH, HCT 116)",DOI: 10.3390/molecules23112799
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 15.27 ± 1.03 μg/mL (-, HepG2)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 16.51 ± 0.49 μg/mL (-, Hep3B)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 13.41 ± 0.21 μg/mL (-, MCF7)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 14.32 ± 0.27 μg/mL (-, A549)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 16.74 ± 0.33 μg/mL (-, MDA-MB-231)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"Inhibition = 14 % at 10 µM (-, MCF-7)",DOI: 10.1016/j.steroids.2008.09.007
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"Inhibition = 48 % at 10 µM (-, MCF-7)",DOI: 10.1016/j.steroids.2008.09.007
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 20 µM (MTT, HT-29)",DOI: 10.1007/bf02977775
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 74 µM (MTT, HEP-G2)",DOI: 10.1007/bf02977775
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 7.8 µg/ml (WTS-8, HL-60)",DOI: 10.1248/cpb.57.411
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"Cell viability = 3.70 ± 0.35 % at 100 µM (MTT, HepG2)",DOI: 10.3390/md16080253
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"Cell viability = 30.65 ± 2.26 % at 10 µM (MTT, HepG2)",DOI: 10.3390/md16080253
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"Cell viability = 54.45 ± 1.34 % at 1 µM (MTT, HepG2)",DOI: 10.3390/md16080253
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"Cell viability = 88.72 ± 2.52 % at 0.1 µM (MTT, HepG2)",DOI: 10.3390/md16080253
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"Cell viability = 98.71 ± 3.19 % at 0.01 µM (MTT, HepG2)",DOI: 10.3390/md16080253
+"(22E,24R)-5α,8α-epidioxyergosta-6,22-dien-3β-ol",Cytotoxicity,"IC50 = 77.9 ± 14.4 µM (MTT, B16)",DOI: 10.1021/np060561p
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 2.67 μg/ml (MTT, Kato III)",DOI: 10.1248/cpb.49.1030
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 7.73 ± 0.10 μg/ml (-, HepG2)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 15.52 ± 0.05 μg/ml (-, Hep3B)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 9.18 ± 0.36 μg/ml (-, MCF7)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 10.37 ± 0.07 μg/ml (-, A549)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 =  7.32 ± 0.72 μg/ml (-, MDA-MB-231)",DOI: 10.1016/j.bmcl.2013.02.060
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 7.5 μg/ml (WST-8, HL-60)",DOI: 10.1248/cpb.57.411
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"EC50 = 12.27 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"EC50 = 10.86 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"EC50 = 11.84 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"EC50 = 9.61 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 25.6 μM (SRB, A549)",DOI: 10.1038/ja.2009.30
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 17.5 μM (SRB, SK-OV-3)",DOI: 10.1038/ja.2009.30
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 11.8 μM (SRB, SK-MEL-2)",DOI: 10.1038/ja.2009.30
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"IC50 = 17.1 μM (SRB, HCT-15)",DOI: 10.1038/ja.2009.30
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"Inhibition = 35 ± 3 % at 10 μM (MTT, MCF-7)",DOI: 10.1016/j.steroids.2008.09.007
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-trien-3β-ol  ",Cytotoxicity,"Inhibition = 11 ± 15 % at 10 μM (MTT, MCF-7)",DOI: 10.1016/j.steroids.2008.09.007
+Brassicastanol,Cytotoxicity,"IC50 > 30.0 μM (SRB, A549)",DOI: 10.1038/ja.2009.30
+Brassicastanol,Cytotoxicity,"IC50 > 30.0 μM (SRB, SK-OV-3)",DOI: 10.1038/ja.2009.30
+Brassicastanol,Cytotoxicity,"IC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1038/ja.2009.30
+Brassicastanol,Cytotoxicity,"IC50 = 28.3 μM (SRB, HCT-15)",DOI: 10.1038/ja.2009.30
+"(24S)-5α,8α-Epidioxyergost-6-en-3β-ol",Cytotoxicity,"IC50 > 30.0 μM (SRB, A549)",DOI: 10.3184/174751916x14546877525997
+"(24S)-5α,8α-Epidioxyergost-6-en-3β-ol",Cytotoxicity,"IC50 = 27.2 μM (SRB, SK-OV-3)",DOI: 10.3184/174751916x14546877525997
+"(24S)-5α,8α-Epidioxyergost-6-en-3β-ol",Cytotoxicity,"IC50 = 23.49 μM (SRB, SK-MEL-2)",DOI: 10.3184/174751916x14546877525997
+"(24S)-5α,8α-Epidioxyergost-6-en-3β-ol",Cytotoxicity,"IC50 > 30.0 μM (SRB, HCT-15)",DOI: 10.3184/174751916x14546877525997
+"Ergosta-4,6,8(14),22-Tetraen-3-One",Cytotoxicity,"IC50 = 5.5 μg/ml (-, Splenic lymphocytes)",DOI: 10.1248/cpb.52.1005
+"Ergosta-4,6,8(14),22-Tetraen-3-One",Cytotoxicity,"IC50 = 7.6 μg/ml (-, Splenic lymphocytes)",DOI: 10.1248/cpb.52.1005
+"Ergosta-4,6,8(14),22-Tetraen-3-One",Cytotoxicity,"IC50 > 100 µM (-, Neutrophils)",DOI: 10.1021/np070045e
+"Ergosta-4,6,8(14),22-Tetraen-3-One",Cytotoxicity,"IC50 = 7.2 mg/L (-, HT-29 colon cell line)",DOI: 10.5012/bkcs.2005.26.9.1464
+"Ergosta-4,6,8(14),22-Tetraen-3-One",Cytotoxicity,"IC50 = 5 mg/L (-, HEP3B cancer cell line)",DOI: 10.5012/bkcs.2005.26.9.1464
+"Ergosta-4,6,8(14),22-Tetraen-3-One",Cytotoxicity,"IC50 = 26.3 mg/L (-, HeLa229 cell line)",DOI: 10.5012/bkcs.2005.26.9.1464
+"Ergosta-4,6,8(14),22-Tetraen-3-One",Cytotoxicity,"IC50 = 22 mg/L (-, AGS cell line)",DOI: 10.5012/bkcs.2005.26.9.1464
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-triene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 15.42 μM (SRB, A549)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-triene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 18.26 μM (SRB,SK-OV-3)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-triene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 12.96 μM (SRB, SK-MEL-2)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-triene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 19.32 μM (SRB, HCT-15)",https://www.koreascience.or.kr/article/JAKO201422333526222.pdf
+"(22E,24R)-5α,8α-Epidioxyergosta-6,9,22-triene-3β-ol 3-O-β-D-glucopyranoside",Cytotoxicity,"IC50 = 2.69 μg/ml (MTT, Kato III)",DOI: 10.1248/cpb.49.1030
+20-Hydroxyecdysone,Cytotoxicity,"EC50 = 29 ± 6 µM (CGT, SUP-B15)",DOI: 10.3390/molecules24102012
+20-Hydroxyecdysone,Cytotoxicity,"EC50 > 43.29 µM (CGT, Peripheral blood mononuclear cells)",DOI: 10.3390/molecules24102012
+20-Hydroxyecdysone,Cytotoxicity,"EC50 > 43.29 µM (CGT, NALM-6)",DOI: 10.3390/molecules24102012
+20-Hydroxyecdysone,Cytotoxicity,"EC50 > 43.29 µM (CGT, KOPN8)",DOI: 10.3390/molecules24102012
+20-Hydroxyecdysone,Cytotoxicity,"EC50 > 43.29 µM (CGT, UoC-B1)",DOI: 10.3390/molecules24102012
+20-Hydroxyecdysone,Cytotoxicity,"EC50 > 43.29 µM (CGT, BJ)",DOI: 10.3390/molecules24102012
+Macrolepiotin,Cytotoxicity,"IC50 > 30.0 μM (SRB, A549)",DOI: 10.1038/ja.2009.30
+Macrolepiotin,Cytotoxicity,"IC50 > 30.0 μM (SRB, SK-OV-3)",DOI: 10.1038/ja.2009.30
+Macrolepiotin,Cytotoxicity,"IC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1038/ja.2009.30
+Macrolepiotin,Cytotoxicity,"IC50 > 30 μM (SRB, HCT-15)",DOI: 10.1038/ja.2009.30
+Epicoccamide A,Cytotoxicity,"CC50 > 90.0 μM (-, HeLa)",DOI: 10.1021/np070245q
+Epicoccamide A,Cytotoxicity,"GI50 > 90.0 μM (-, L-929)",DOI: 10.1021/np070245q
+Epicoccamide A,Cytotoxicity,"GI50 > 90.0 μM (-, K-562)",DOI: 10.1021/np070245q
+Epicoccamide B,Cytotoxicity,"CC50 = 44.2 μM (-, HeLa)",DOI: 10.1021/np070245q
+Epicoccamide B,Cytotoxicity,"GI50 = 71.1 μM (-, L-929)",DOI: 10.1021/np070245q
+Epicoccamide B,Cytotoxicity,"GI50 = 52.7 μM (-, K-562)",DOI: 10.1021/np070245q
+Epicoccamide C,Cytotoxicity,"CC50 = 29.0 μM (-, HeLa)",DOI: 10.1021/np070245q
+Epicoccamide C,Cytotoxicity,"GI50 = 57.2 μM (-, L-929)",DOI: 10.1021/np070245q
+Epicoccamide C,Cytotoxicity,"GI50 = 33.7 μM (-, K-562)",DOI: 10.1021/np070245q
+Epicoccamide D,Cytotoxicity,"CC50 = 17.0 μM (-, HeLa)",DOI: 10.1021/np070245q
+Epicoccamide D,Cytotoxicity,"GI50 = 50.5 μM (-, L-929)",DOI: 10.1021/np070245q
+Epicoccamide D,Cytotoxicity,"GI50 = 33.3 μM (-, K-562)",DOI: 10.1021/np070245q
+Levocarnitine,Cytotoxicity,"Activity(24 h) = 1.4 % at 1.25 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(48 h) = 5.3 % at 1.25 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(72 h) = 13.6 % at 1.25 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(24 h) = 0 % at 2.5 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(48 h) = 7.8 % at 2.5 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(72 h) = 28.4 % at 2.5 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(24 h) = 1.8 % at 5 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(48 h) = 9.2 % at 5 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(72 h) = 25.6 % at 5 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(24 h) = 1.7 % at 10 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(48 h) = 9.7 % at 10 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(72 h) = 30.0 % at 10 μM (Trypan Blue, HL-60 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(24 h) = 0 % at 1.25 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(48 h) = 2.5 % at 1.25 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(72 h) = 4.7 % at 1.25 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(24 h) = 2.4 % at 2.5 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(48 h) = 0 % at 2.5 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(72 h) = 4.7 % at 2.5 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(24 h) = 0 % at 5 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(48 h) = 8.9 % at 5 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(72 h) = 14.3 % at 5 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(24 h) = 2.4 % at 10 μM(Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(48 h) = 11.1 % at 10 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Levocarnitine,Cytotoxicity,"Activity(72 h) = 11.8 % at 10 μM (Trypan Blue, K562 cell line)",DOI: 10.1021/jm701473x
+Nambinone C,Cytotoxicity,"IC50 = 16.43 μM (SRB, NCI-H187)",DOI: 10.1016/j.tet.2012.07.057
+Nambinone C,Cytotoxicity,"IC50 = 73.52 μM (SRB, KB)",DOI: 10.1016/j.tet.2012.07.057
+Nambinone D,Cytotoxicity,"IC50 = 42.30 μM (SRB, NCI-H187)",DOI: 10.1016/j.tet.2012.07.057
+Nambinone D,Cytotoxicity,"IC50 = 57.72 μM (SRB, KB)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin K,Cytotoxicity,"IC50 = 1.45 μM (SRB, NCI-H187)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin K,Cytotoxicity,"IC50 = 6.87 μM (SRB, KB)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin K,Cytotoxicity,"IC50 > 50 μM (SRB, KKU-100)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin K,Cytotoxicity,"IC50 = 28.61 ± 0.85 μM (SRB, KKU-139)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin K,Cytotoxicity,"IC50 = 7.63 ± 0.57 μM (SRB, KKU-156)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin K,Cytotoxicity,"IC50 = 20.90 ± 0.13 μM (SRB, KKU-213)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin K,Cytotoxicity,"IC50 > 50 μM (SRB, KKU-214)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin A,Cytotoxicity,"IC50 = 1.55 μM (SRB, NCI-H187)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin A,Cytotoxicity,"IC50 = 3.72 μM (SRB, BC1)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin A,Cytotoxicity,"IC50 = 31.17 μM (SRB, KB)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin A,Cytotoxicity,"IC50 = 2.77 ± 0.22 μM (SRB, KKU-100)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin A,Cytotoxicity,"IC50 = 1.83 ± 0.09 μM (SRB, KKU-139)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin A,Cytotoxicity,"IC50 = 1.57 ± 0.09 μM (SRB, KKU-156)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin A,Cytotoxicity,"IC50 = 1.75 ± 0.09 μM (SRB, KKU-213)",DOI: 10.1016/j.tet.2012.07.057
+Aurisin A,Cytotoxicity,"IC50 = 17.82 ± 0.62 μM (SRB, KKU-214)",DOI: 10.1016/j.tet.2012.07.057
+"5α,6α-Epoxy-(22E,24R)-ergosta-8,22-diene-3β,7β-diol",Cytotoxicity,"EC50 > 30.0 μM (SRB, A549)",DOI: 10.1007/s12272-001-1196-3
+"5α,6α-Epoxy-(22E,24R)-ergosta-8,22-diene-3β,7β-diol",Cytotoxicity,"EC50 = 29.55 μM (SRB, SK-OV-3)",DOI: 10.1007/s12272-001-1196-3
+"5α,6α-Epoxy-(22E,24R)-ergosta-8,22-diene-3β,7β-diol",Cytotoxicity,"EC50 > 30.0 μM (SRB, SK-MEL-2)",DOI: 10.1007/s12272-001-1196-3
+"5α,6α-Epoxy-(22E,24R)-ergosta-8,22-diene-3β,7β-diol",Cytotoxicity,"EC50 = 15.18 μM (SRB, HCT15)",DOI: 10.1007/s12272-001-1196-3
+1-O-Methylemodin,Cytotoxicity,"IC50 = 4 μg/ml (MTT, Splenic lymphocytes)",DOI: 10.1248/cpb.52.1005
+1-O-Methylemodin,Cytotoxicity,"IC50 = 3 μg/ml (MTT, Splenic lymphocytes)",DOI: 10.1248/cpb.52.1005
+Carviolin,Cytotoxicity,"IC50 = 4 μg/ml (MTT, Splenic lymphocytes)",DOI: 10.1248/cpb.52.1005
+Carviolin,Cytotoxicity,"IC50 = 4.5 μg/ml (MTT, Splenic lymphocytes)",DOI: 10.1248/cpb.52.1005
+Brassicasteryl linoleate,Cytotoxicity,"IC50 = 73.2 ± 1.9 µg/Ml (MTT, HT29)",DOI: 10.1016/j.steroids.2022.108990
+Brassicasteryl linoleate,Cytotoxicity,"IC50 = 64.2 ± 2.0 µg/Ml (MTT, MCF7)",DOI: 10.1016/j.steroids.2022.108990
+Brassicasteryl linoleate,Cytotoxicity,"IC50 = 90.1 ± 1.8 µg/Ml (MTT, PDF)",DOI: 10.1016/j.steroids.2022.108990
+"(3β, 22E) ergosta-5, 22-dienyl 3-O-α-yl decanoate (Brassicasteryl decanoate)",Cytotoxicity,"IC50 = 87.1 ± 1.9 µg/mL (MTT, HT-29)",DOI: 10.1016/j.steroids.2024.109523
+"(3β, 22E) ergosta-5, 22-dienyl 3-O-α-yl decanoate (Brassicasteryl decanoate)",Cytotoxicity,"IC50 = 82.4 ± 1.5 µg/mL (MTT, MCF-7)",DOI: 10.1016/j.steroids.2024.109523
+"(3β, 22E) ergosta-5, 22-dienyl 3-O-α-yl decanoate (Brassicasteryl decanoate)",Cytotoxicity,"IC50 = 102.1 ± 0.9 µg/mL (MTT, PDF)",DOI: 10.1016/j.steroids.2024.109523
+"bis (2- ethylpentadecyl) benzene-1,2-dicarboxylate",Cytotoxicity,"IC50 = 45.53 ± 0.8 µg/mL (MTT, HT-29)",DOI: 10.1016/j.steroids.2024.109523
+"bis (2- ethylpentadecyl) benzene-1,2-dicarboxylate",Cytotoxicity,"IC50 = 33.45 ± 2.9 µg/mL (MTT, MCF-7)",DOI: 10.1016/j.steroids.2024.109523
+(2S)-4-(aziridine-1-yl)-4-oxobutan-2-yl hexadecanoate ,Cytotoxicity,"IC50 = 30.45 ± 0.35 µg/mL (MTT, HeLa)",DOI: 10.1016/j.steroids.2024.109523
+(2S)-4-(aziridine-1-yl)-4-oxobutan-2-yl hexadecanoate ,Cytotoxicity,"IC50 = 33.55 ± 0.49 µg/mL (MTT, MCF-7)",DOI: 10.1016/j.steroids.2024.109523
+"N-(1,3,4-trihydroxyoctadecan-2-yl) tetracosanamide",Cytotoxicity,"IC50 = 90.91 ± 3.3 µg/mL (MTT, HeLa)",DOI: 10.1080/14786419.2024.2445207
+"N-(1,3,4-trihydroxyoctadecan-2-yl) tetracosanamide",Cytotoxicity,"IC50 = 85.91 ± 2.1 µg/mL (MTT, MCF-7)",DOI: 10.1080/14786419.2024.2445207
+"N-(1,3,4-trihydroxyoctadecan-2-yl) tetracosanamide",Cytotoxicity,"IC50 = 83.83 ± 1.5 µg/mL (MTT, HT29)",DOI: 10.1080/14786419.2024.2445207
+"N-(1,3,4-trihydroxycosane-2-yl) tetracosanamide",Cytotoxicity,"IC50 = 93.74 ± 1.48 µg/mL (MTT, HeLa)",DOI: 10.1080/14786419.2024.2445207
+"N-(1,3,4-trihydroxycosane-2-yl) tetracosanamide",Cytotoxicity,"IC50 = 86.41 ± 2.7 µg/mL (MTT, MCF7)",DOI: 10.1080/14786419.2024.2445207
+"N-(1,3,4-trihydroxycosane-2-yl) tetracosanamide",Cytotoxicity,"IC50 = 84.27 ± 3.2 µg/mL (MTT, HT29)",DOI: 10.1080/14786419.2024.2445207
+"1,2-dilinolenoyl glycerol",Cytotoxicity,"IC50 = 71.51 ± 0.8 µg/mL (MTT, HeLa)",DOI: 10.1080/14786419.2024.2445207
+"1,2-dilinolenoyl glycerol",Cytotoxicity,"IC50 = 52.44 ± 2.1 µg/mL (MTT, MCF7)",DOI: 10.1080/14786419.2024.2445207
+"1,2-dilinolenoyl glycerol",Cytotoxicity,"IC50 = 86.85 ± 1.7 µg/mL (MTT, HT29)",DOI: 10.1080/14786419.2024.2445207
+"L-2-Aminohexa-4,5-dienoic acid",General Toxicity,"2-amino-4,5-hexadienoic acid was toxic to guinea pigs at dosages beginning with 10 mg/kg i.p. and lethal at 100 mg/kg.",PMID: 4795581
+Clavilactone M,Cytotoxicity,"IC50 = 22.8 ± 0.9 µM (MTT, Hela)",DOI: 10.3390/molecules28145456
+Clavilactone M,Cytotoxicity,"IC50 = 53.5 ± 1.2 µM (MTT, SGC-7901)",DOI: 10.3390/molecules28145456
+Clavilactone M,Cytotoxicity,"IC50 > 100 µM (MTT, SHG-44)",DOI: 10.3390/molecules28145456
+Clavilactone N,Cytotoxicity,"IC50 = 19.7 ± 1.1 µM (MTT, Hela)",DOI: 10.3390/molecules28145456
+Clavilactone N,Cytotoxicity,"IC50 = 38.4 ± 0.8 µM (MTT, SGC-7901)",DOI: 10.3390/molecules28145456
+Clavilactone N,Cytotoxicity,"IC50 = 29.5 ± 0.8 µM (MTT, SHG-44)",DOI: 10.3390/molecules28145456
+Clavilactone O,Cytotoxicity,"IC50 = 55.2 ± 0.9 µM (MTT, Hela)",DOI: 10.3390/molecules28145456
+Clavilactone O,Cytotoxicity,"IC50 = 34.8 ± 1.3 µM (MTT, SGC-7901)",DOI: 10.3390/molecules28145456
+Clavilactone O,Cytotoxicity,"IC50 = 35.8 ± 1.0 µM (MTT, SHG-44)",DOI: 10.3390/molecules28145456
+Clavilactone P,Cytotoxicity,"IC50 = 44.5 ± 0.7 µM (MTT, Hela)",DOI: 10.3390/molecules28145456
+Clavilactone P,Cytotoxicity,"IC50 = 47.9 ± 1.6 µM (MTT, SGC-7901)",DOI: 10.3390/molecules28145456
+Clavilactone P,Cytotoxicity,"IC50 > 100 µM (MTT, SHG-47)",DOI: 10.3390/molecules28145456
+Suillumide,Cytotoxicity,"IC50 = 9.7 µM (MTT, SK-MEL-1)",DOI: 10.1002/cbdv.200890002
+Suillin,Cytotoxicity,"IC50 = 1.99 ± 0.19 µM (MTT, HepG2)",DOI: 10.1016/j.cbi.2009.07.008
+Suillin,Cytotoxicity,"IC50 = 2.10 ± 0.31 µM (MTT, Hep3B)",DOI: 10.1016/j.cbi.2009.07.008
+Suillin,Cytotoxicity,"IC50 = 1.83 ± 0.37 µM (MTT, Huh)",DOI: 10.1016/j.cbi.2009.07.008
+Suillin,Cytotoxicity,"IC50 = 4.92 ± 0.48 µM (MTT, Bcap37)",DOI: 10.1016/j.cbi.2009.07.008
+Suillin,Cytotoxicity,"IC50 = 4.94 ± 0.39 µM (MTT, MCF-7)",DOI: 10.1016/j.cbi.2009.07.008
+Suillin,Cytotoxicity,"IC50 =  4.71 ± 0.31 µM (MTT, HeLa)",DOI: 10.1016/j.cbi.2009.07.008
+Suillin,Cytotoxicity,"IC50 =  8.24 ± 0.56 µM (MTT, K562)",DOI: 10.1016/j.cbi.2009.07.008
+Suillin,Cytotoxicity,"IC50 = 7.65 ± 0.54 µM (MTT, SW620)",DOI: 10.1016/j.cbi.2009.07.008
+"2′,3′-Diacetoxy-4,5,5′,6′,4′′,5′′-hexahydroxy-p-terphenyl",Cytotoxicity,"IC50 = 55.02 ± 1.79 μM (MTS, SW480)",DOI: 10.1080/14786419.2019.1680664
+"2′,3′-Diacetoxy-4,5,5′,6′,4′′,5′′-hexahydroxy-p-terphenyl",Cytotoxicity,"IC50 = 44.71 ± 2.15 μM (MTS, HL-60)",DOI: 10.1080/14786419.2019.1680664
+Subvellerolactone B,Cytotoxicity,"IC50 = 26.5 µM (SRB, A549)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone B,Cytotoxicity,"IC50 > 30.0 µM (SRB, SK-OV-3)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone B,Cytotoxicity,"IC50 = 18.3 µM (SRB, SK-MEL-2)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone B,Cytotoxicity,"IC50 = 14.2 µM (SRB, HCT-15)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone D,Cytotoxicity,"IC50 = 25.1 µM (SRB, A549)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone D,Cytotoxicity,"IC50 > 30.0 µM (SRB, SK-OV-3)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone D,Cytotoxicity,"IC50 > 30.0 µM (SRB, SK-MEL-2)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone D,Cytotoxicity,"IC50 = 17.8 µM (SRB, HCT-16)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone E,Cytotoxicity,"IC50 = 19.6 µM (SRB, A549)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone E,Cytotoxicity,"IC50 > 30.0 µM (SRB, SK-OV-3)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone E,Cytotoxicity,"IC50 > 30.0 µM (SRB, SK-MEL-2)",DOI: 10.1016/j.bmcl.2010.07.119
+Subvellerolactone E,Cytotoxicity,"IC50 = 28.7 µM (SRB, HCT-17)",DOI: 10.1016/j.bmcl.2010.07.119
+Bulgareone A,Cytotoxicity,"IC50 = 7.9 μg/Ml (SRB, HL-60)",DOI: 10.1016/j.fitote.2012.10.006
+Bulgareone A,Cytotoxicity,"IC50 = 12.6 μg/Ml (SRB, K562)",DOI: 10.1016/j.fitote.2012.10.006
+Capnoidone A,Cytotoxicity,"IC50 = 33.46 ± 0.29 μM (MTT, BV2)",DOI: 10.1016/j.phytochem.2023.113959
+Capnoidone D,Cytotoxicity,"IC50 = 22.91 ± 3.32 μM (MTT, BV2)",DOI: 10.1016/j.phytochem.2023.113959
+Capnoidone D,Cytotoxicity,"IC50 = 38.39 ± 1.03 μM (MTT, A549)",DOI: 10.1016/j.phytochem.2023.113959

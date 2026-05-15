@@ -1,0 +1,396 @@
+{
+  "data": [
+    {
+      "mechanism_id": "1",
+      "toxicity_id": "6",
+      "Description": "Phalloin belongs to a class of toxins called phallotoxins, phallotoxins bind actin, preventing its depolymerization and poisoning the cell. They bind specifically at the interface between F-actin subunits, locking adjacent subunits together. This leads to a decrease in the rate constant for the dissociation of actin subunits from filament ends, which essentially stabilizes actin filaments through the prevention of filament depolymerization. Moreover, they inhibit the ATP hydrolysis activity of F-actin.",
+      "Reference": "DOI: 10.1016/0003-2697(92)90299-M",
+      "ExternalLink": "http://en.wikipedia.org/wiki/Phalloidin"
+    },
+    {
+      "mechanism_id": "2",
+      "toxicity_id": "15",
+      "Description": "Phalloidin belongs to a class of toxins called phallotoxins, phallotoxins bind actin, preventing its depolymerization and poisoning the cell. They bind specifically at the interface between F-actin subunits, locking adjacent subunits together. This leads to a decrease in the rate constant for the dissociation of actin subunits from filament ends, which essentially stabilizes actin filaments through the prevention of filament depolymerization. Moreover, they inhibit the ATP hydrolysis activity of F-actin.",
+      "Reference": "DOI: 10.1016/0003-2697(92)90299-M",
+      "ExternalLink": "http://en.wikipedia.org/wiki/Phalloidin"
+    },
+    {
+      "mechanism_id": "3",
+      "toxicity_id": "19",
+      "Description": "Phallisin belongs to a class of toxins called phallotoxins, phallotoxins bind actin, preventing its depolymerization and poisoning the cell. They bind specifically at the interface between F-actin subunits, locking adjacent subunits together. This leads to a decrease in the rate constant for the dissociation of actin subunits from filament ends, which essentially stabilizes actin filaments through the prevention of filament depolymerization. Moreover, they inhibit the ATP hydrolysis activity of F-actin.",
+      "Reference": "DOI: 10.1016/0003-2697(92)90299-M",
+      "ExternalLink": "http://en.wikipedia.org/wiki/Phalloidin"
+    },
+    {
+      "mechanism_id": "4",
+      "toxicity_id": "22",
+      "Description": "Phallacin belongs to a class of toxins called phallotoxins, phallotoxins bind actin, preventing its depolymerization and poisoning the cell. They bind specifically at the interface between F-actin subunits, locking adjacent subunits together. This leads to a decrease in the rate constant for the dissociation of actin subunits from filament ends, which essentially stabilizes actin filaments through the prevention of filament depolymerization. Moreover, they inhibit the ATP hydrolysis activity of F-actin.",
+      "Reference": "DOI: 10.1016/0003-2697(92)90299-M",
+      "ExternalLink": "http://en.wikipedia.org/wiki/Phalloidin"
+    },
+    {
+      "mechanism_id": "5",
+      "toxicity_id": "24",
+      "Description": "Phallacidin belongs to a class of toxins called phallotoxins, phallotoxins bind actin, preventing its depolymerization and poisoning the cell. They bind specifically at the interface between F-actin subunits, locking adjacent subunits together. This leads to a decrease in the rate constant for the dissociation of actin subunits from filament ends, which essentially stabilizes actin filaments through the prevention of filament depolymerization. Moreover, they inhibit the ATP hydrolysis activity of F-actin.",
+      "Reference": "DOI: 10.1016/0003-2697(92)90299-M",
+      "ExternalLink": "http://en.wikipedia.org/wiki/Phalloidin"
+    },
+    {
+      "mechanism_id": "6",
+      "toxicity_id": "27",
+      "Description": "Phallisacin belongs to a class of toxins called phallotoxins, phallotoxins bind actin, preventing its depolymerization and poisoning the cell. They bind specifically at the interface between F-actin subunits, locking adjacent subunits together. This leads to a decrease in the rate constant for the dissociation of actin subunits from filament ends, which essentially stabilizes actin filaments through the prevention of filament depolymerization. Moreover, they inhibit the ATP hydrolysis activity of F-actin.",
+      "Reference": "DOI: 10.1016/0003-2697(92)90299-M",
+      "ExternalLink": "http://en.wikipedia.org/wiki/Phalloidin"
+    },
+    {
+      "mechanism_id": "7",
+      "toxicity_id": "31",
+      "Description": "Prophalloin belongs to a class of toxins called phallotoxins, phallotoxins bind actin, preventing its depolymerization and poisoning the cell. They bind specifically at the interface between F-actin subunits, locking adjacent subunits together. This leads to a decrease in the rate constant for the dissociation of actin subunits from filament ends, which essentially stabilizes actin filaments through the prevention of filament depolymerization. Moreover, they inhibit the ATP hydrolysis activity of F-actin.",
+      "Reference": "DOI: 10.1016/0003-2697(92)90299-M",
+      "ExternalLink": "http://en.wikipedia.org/wiki/Phalloidin"
+    },
+    {
+      "mechanism_id": "8",
+      "toxicity_id": "48",
+      "Description": "α-Amanitin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "9",
+      "toxicity_id": "49",
+      "Description": "α-Amanitin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "10",
+      "toxicity_id": "50",
+      "Description": "α-Amanitin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "11",
+      "toxicity_id": "57",
+      "Description": "β-Amanitin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "12",
+      "toxicity_id": "58",
+      "Description": "β-Amanitin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "13",
+      "toxicity_id": "61",
+      "Description": "γ-Amanitin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "14",
+      "toxicity_id": "62",
+      "Description": "γ-Amanitin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "15",
+      "toxicity_id": "64",
+      "Description": "ε-Amanitin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "16",
+      "toxicity_id": "65",
+      "Description": "ε-Amanitin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "17",
+      "toxicity_id": "67",
+      "Description": "Amanin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "18",
+      "toxicity_id": "68",
+      "Description": "Amanin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "19",
+      "toxicity_id": "70",
+      "Description": "Amaninamide belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "20",
+      "toxicity_id": "71",
+      "Description": "Amaninamide belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "21",
+      "toxicity_id": "74",
+      "Description": "Amanullin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "22",
+      "toxicity_id": "75",
+      "Description": "Amanullin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "23",
+      "toxicity_id": "78",
+      "Description": "Amanullinic acid belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "24",
+      "toxicity_id": "79",
+      "Description": "Amanullinic acid belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "25",
+      "toxicity_id": "82",
+      "Description": "Proamanullin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "26",
+      "toxicity_id": "83",
+      "Description": "Proamanullin belongs to a class of toxins called amatoxins. Amanitin has an unusually strong and specific attraction to the enzyme RNA polymerase II. Upon ingestion, it binds to the RNA polymerase II enzyme, preventing mRNA synthesis and effectively causing cytolysis of hepatocytes (liver cells).",
+      "Reference": "DOI: 10.1073/pnas.251664698",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "27",
+      "toxicity_id": "85",
+      "Description": "Viroidin belongs to a class of toxins called virotoxins. The virotoxins induce polymerization of cytoplasmic actin and  membrane fragmentation in small spherical vesicles. These virotoxins may have another membrane-bound target besides actin. It is possible that their affinity to cellular actin may be responsible for their hepatotoxicity.",
+      "Reference": "DOI: 10.1139/o92-110",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "28",
+      "toxicity_id": "87",
+      "Description": "Alloviroidin belongs to a class of toxins called virotoxins. The virotoxins induce polymerization of cytoplasmic actin and membrane fragmentation in small spherical vesicles. These virotoxins may have another membrane-bound target besides actin. It is possible that their affinity to cellular actin may be responsible for their hepatotoxicity.",
+      "Reference": "DOI: 10.1139/o92-110",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "29",
+      "toxicity_id": "90",
+      "Description": "Deoxoviroidin belongs to a class of toxins called virotoxins. The virotoxins induce polymerization of cytoplasmic actin and membrane fragmentation in small spherical vesicles. These virotoxins may have another membrane-bound target besides actin. It is possible that their affinity to cellular actin may be responsible for their hepatotoxicity.",
+      "Reference": "DOI: 10.1139/o92-110",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "30",
+      "toxicity_id": "93",
+      "Description": "α-Viroidin belongs to a class of toxins called virotoxins. The virotoxins induce polymerization of cytoplasmic actin and membrane fragmentation in small spherical vesicles. These virotoxins may have another membrane-bound target besides actin. It is possible that their affinity to cellular actin may be responsible for their hepatotoxicity.",
+      "Reference": "DOI: 10.1139/o92-110",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "31",
+      "toxicity_id": "95",
+      "Description": "Viroisin belongs to a class of toxins called virotoxins. The virotoxins induce polymerization of cytoplasmic actin and membrane fragmentation in small spherical vesicles. These virotoxins may have another membrane-bound target besides actin. It is possible that their affinity to cellular actin may be responsible for their hepatotoxicity.",
+      "Reference": "DOI: 10.1139/o92-110",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "32",
+      "toxicity_id": "105",
+      "Description": "Ibotenic acid is an agonist of glutamate receptors, specifically at both the N-methyl-D-aspartate, or NMDA, and trans-ACPD receptor sites in multiple systems in the central nervous system. Ibotenic acid toxicity comes from activation of the NMDA receptors. NMDA receptors are related to synaptic plasticity and work with metabotropic glutamate receptors to establish long term potentiation or LTP. The process of long term potentiation is believed to be related to the acquisition of information. The NMDA receptor functions properly by allowing Ca2+ ions to pass through after activation at the receptor site. The binding of ibotenic acid allows excess Ca2+ into the system which results in neuronal cell death. Ca2+ also activates CaM-KII or Ca2+/Calmodulin Kinase which phosphorylates multiple enzymes. The activated enzymes then begin producing reactive oxygen species which damages surrounding tissue. The excess Ca2+ results in the enhancement of the mitochondrial electron transport system which will further increase the number of reactive oxygen species.",
+      "Reference": "http://en.wikipedia.org/wiki/Ibotenic_acid",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "33",
+      "toxicity_id": "117",
+      "Description": "Muscimol is a potent GABAA agonist, activating the receptor for the brain's major inhibitory neurotransmitter, GABA. Muscimol actually binds to the same binding site on the GABAA receptor complex as GABA itself, as opposed to other GABAergic drugs such as barbiturates and benzodiazepines which bind to separate regulatory sites. GABAA receptors are widely distributed in the brain, and so when muscimol is administered, it alters neuronal activity in multiple regions including the cerebral cortex, hippocampus, and cerebellum. However while muscimol is conventionally thought of as a selective GABAA agonist, it is also a potent partial agonist at the GABAC receptor, and so its effects profile results from a combined action at both targets.",
+      "Reference": "http://www.t3db.ca/toxins/T3D2456",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "34",
+      "toxicity_id": "118",
+      "Description": "Muscazone is a lactam isomer of muscimol. Muscimol is a potent GABAA agonist, activating the receptor for the brain's major inhibitory neurotransmitter, GABA.",
+      "Reference": "DOI: 10.1017/S0953756203007305",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "35",
+      "toxicity_id": "122",
+      "Description": "Muscarine stimulates M1 and M2 types of postganglionic cholinergic receptors (muscarinic receptors) in the autonomic nervous system. This action results in parasympathetic stimulation similar to that caused by the release of endogenous acetylcholine at postganglionic receptors of smooth muscle and exocrine glands. The action on muscarinic receptors produces a cholinergic syndrome that is characterized by sweating, bronchorrhea with shortness of breath, salivation, lacrimation, diarrhea, miosis, abdominal cramps, and rarely bradycardia.",
+      "Reference": "https://emedicine.medscape.com/article/167398",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "36",
+      "toxicity_id": "130",
+      "Description": "Orellanine is a bipyridine with positively charged nitrogen atoms, and chemically resembles the bipyridine herbicides paraquat and diquat. Like orellanine, paraquat and diquat are toxic not only to plants, but also to humans and livestock. Bipyridine compounds with charged nitrogen atoms disrupt important redox reactions in organisms, 'stealing' one or two electrons and sometimes passing the electrons along into other, often undesirable, redox reactions. The terminal products of these reactions can be harmful reactive oxygen species such as peroxide or superoxide ions, the latter of which are harmful to cells.",
+      "Reference": "DOI: 10.1177/0960327115613845",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "37",
+      "toxicity_id": "131",
+      "Description": "Orellanine is a bipyridine with positively charged nitrogen atoms, and chemically resembles the bipyridine herbicides paraquat and diquat. Like orellanine, paraquat and diquat are toxic not only to plants, but also to humans and livestock. Bipyridine compounds with charged nitrogen atoms disrupt important redox reactions in organisms, 'stealing' one or two electrons and sometimes passing the electrons along into other, often undesirable, redox reactions. The terminal products of these reactions can be harmful reactive oxygen species such as peroxide or superoxide ions, the latter of which are harmful to cells.",
+      "Reference": "DOI: 10.1177/0960327115613845",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "38",
+      "toxicity_id": "135",
+      "Description": "Psilocybin is rapidly dephosphorylated in the body to psilocin which then acts as a partial agonist at the 5-HT2A serotonin receptor in the brain where it mimics the effects of serotonin (5-HT). Psilocin is an 5-HT1A and 5-HT2A/2C agonist. Hallucinogenic effects probably are mediated through effects on serotonergic receptors.",
+      "Reference": "http://www.t3db.ca/toxins/T3D2457",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "39",
+      "toxicity_id": "137",
+      "Description": "Psilocin acts as a partial agonist at the 5-HT2A serotonin receptor in the brain where it mimics the effects of serotonin (5-HT). It is an 5-HT1A and 5-HT2A/2C agonist. Hallucinogenic effects probably are mediated through effects on serotonergic receptors.",
+      "Reference": "http://www.t3db.ca/toxins/T3D2458",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "40",
+      "toxicity_id": "138",
+      "Description": "Baeocystin is an N-demethylated derivative of psilocybin. The mechanism of baeocystin is similar to psilocybin and psilocin. It can also bind to specific subtypes of the 5-HT receptor to produce hallucinogenic effects.",
+      "Reference": "DOI: 10.3390/ijms22042218",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "41",
+      "toxicity_id": "145",
+      "Description": "Bufotenin is an analogue of the monoamine neurotransmitter serotonin. Similarly to serotonin and related compounds like dimethyltryptamine (DMT), bufotenin is an agonist of the serotonin 5-HT1A, 5-HT2A, 5-HT2C, 5-HT3, and 5-HT4 receptors. It is also known to bind with high affinity to other serotonin receptors, including the serotonin 5-HT1B, 5-HT1D, 5-HT1F, 5-HT6, and 5-HT7 receptors. Bufotenin has also shown greatly increased affinity for and activational potency at the serotonin 5-HT1A receptor.",
+      "Reference": "http://en.wikipedia.org/wiki/Bufotenin",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "42",
+      "toxicity_id": "146",
+      "Description": "Bufotenin is an analogue of the monoamine neurotransmitter serotonin. Similarly to serotonin and related compounds like dimethyltryptamine (DMT), bufotenin is an agonist of the serotonin 5-HT1A, 5-HT2A, 5-HT2C, 5-HT3, and 5-HT4 receptors. It is also known to bind with high affinity to other serotonin receptors, including the serotonin 5-HT1B, 5-HT1D, 5-HT1F, 5-HT6, and 5-HT7 receptors. Bufotenin has also shown greatly increased affinity for and activational potency at the serotonin 5-HT1A receptor.",
+      "Reference": "http://en.wikipedia.org/wiki/Bufotenin",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "43",
+      "toxicity_id": "152",
+      "Description": "The neurotoxicity of β-cyano-L-alanine (or derivative) is mediated directly or indirectly through N-methyl-D-aspartate (NMDA) receptors.",
+      "Reference": "DOI: 10.1002/(SICI)(1996)4:6<247::AID-NT1>3.0.CO;2-M",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "44",
+      "toxicity_id": "157",
+      "Description": "Gyromitrin can be hydrolyzed in the body into monomethylhydrazine (MMH) through the intermediate N-methyl-N-formylhydrazine. The toxins react with pyridoxal 5-phosphate—the activated form of pyridoxine—and form a hydrazone. This reduces production of the neurotransmitter GABA via decreased activity of glutamic acid decarboxylase, which gives rise to the neurological symptoms. MMH also causes oxidative stress leading to methemoglobinemia. Additionally during the metabolism of MMH, N-methyl-N-formylhydrazine is produced; this then undergoes cytochrome P450 regulated oxidative metabolism which via reactive nitrosamide intermediates leads to formation of methyl radicals which lead to liver necrosis. Inhibition of diamine oxidase (histaminase) elevates histamine levels, resulting in headaches, nausea, vomiting, and abdominal pain.",
+      "Reference": "http://en.wikipedia.org/wiki/Gyromitrin",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "45",
+      "toxicity_id": "158",
+      "Description": "Gyromitrin can be hydrolyzed in the body into monomethylhydrazine (MMH) through the intermediate N-methyl-N-formylhydrazine. The toxins react with pyridoxal 5-phosphate—the activated form of pyridoxine—and form a hydrazone. This reduces production of the neurotransmitter GABA via decreased activity of glutamic acid decarboxylase, which gives rise to the neurological symptoms. MMH also causes oxidative stress leading to methemoglobinemia. Additionally during the metabolism of MMH, N-methyl-N-formylhydrazine is produced; this then undergoes cytochrome P450 regulated oxidative metabolism which via reactive nitrosamide intermediates leads to formation of methyl radicals which lead to liver necrosis. Inhibition of diamine oxidase (histaminase) elevates histamine levels, resulting in headaches, nausea, vomiting, and abdominal pain.",
+      "Reference": "http://en.wikipedia.org/wiki/Gyromitrin",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "46",
+      "toxicity_id": "159",
+      "Description": "Gyromitrin can be hydrolyzed in the body into monomethylhydrazine (MMH) through the intermediate N-methyl-N-formylhydrazine. The toxins react with pyridoxal 5-phosphate—the activated form of pyridoxine—and form a hydrazone. This reduces production of the neurotransmitter GABA via decreased activity of glutamic acid decarboxylase, which gives rise to the neurological symptoms. MMH also causes oxidative stress leading to methemoglobinemia. Additionally during the metabolism of MMH, N-methyl-N-formylhydrazine is produced; this then undergoes cytochrome P450 regulated oxidative metabolism which via reactive nitrosamide intermediates leads to formation of methyl radicals which lead to liver necrosis. Inhibition of diamine oxidase (histaminase) elevates histamine levels, resulting in headaches, nausea, vomiting, and abdominal pain.",
+      "Reference": "http://en.wikipedia.org/wiki/Gyromitrin",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "47",
+      "toxicity_id": "160",
+      "Description": "Gyromitrin can be hydrolyzed in the body into monomethylhydrazine (MMH) through the intermediate N-methyl-N-formylhydrazine. The toxins react with pyridoxal 5-phosphate—the activated form of pyridoxine—and form a hydrazone. This reduces production of the neurotransmitter GABA via decreased activity of glutamic acid decarboxylase, which gives rise to the neurological symptoms. MMH also causes oxidative stress leading to methemoglobinemia. Additionally during the metabolism of MMH, N-methyl-N-formylhydrazine is produced; this then undergoes cytochrome P450 regulated oxidative metabolism which via reactive nitrosamide intermediates leads to formation of methyl radicals which lead to liver necrosis. Inhibition of diamine oxidase (histaminase) elevates histamine levels, resulting in headaches, nausea, vomiting, and abdominal pain.",
+      "Reference": "http://en.wikipedia.org/wiki/Gyromitrin",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "48",
+      "toxicity_id": "161",
+      "Description": "Gyromitrin can be hydrolyzed in the body into monomethylhydrazine (MMH) through the intermediate N-methyl-N-formylhydrazine. The toxins react with pyridoxal 5-phosphate—the activated form of pyridoxine—and form a hydrazone. This reduces production of the neurotransmitter GABA via decreased activity of glutamic acid decarboxylase, which gives rise to the neurological symptoms. MMH also causes oxidative stress leading to methemoglobinemia. Additionally during the metabolism of MMH, N-methyl-N-formylhydrazine is produced; this then undergoes cytochrome P450 regulated oxidative metabolism which via reactive nitrosamide intermediates leads to formation of methyl radicals which lead to liver necrosis. Inhibition of diamine oxidase (histaminase) elevates histamine levels, resulting in headaches, nausea, vomiting, and abdominal pain.",
+      "Reference": "http://en.wikipedia.org/wiki/Gyromitrin",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "49",
+      "toxicity_id": "169",
+      "Description": "Coprine hydrolyzes to glutamic acid and 1-aminocyclopropanol, which inhibits the enzyme aldehyde dehydrogenase. 1-aminocyclopropanol quickly converts to cyclopropanone hydrate, which binds covalently to the thiol group present in the enzyme, deactivating the dehydrogenase activity. This inhibition then causes a buildup of acetaldehyde if ethanol is ingested. Since acetaldehyde is toxic and can no longer be metabolized to the less toxic acetic acid, the characteristic symptoms of coprine poisoning occur.",
+      "Reference": "http://en.wikipedia.org/wiki/Coprine",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "50",
+      "toxicity_id": "175",
+      "Description": "Illudin S belongs to a class of toxins called illudins. Illudins were found to be able to initiate DNA breakage in the cell through a two-step reaction initiated by a Michael-type addition of a thiol bionucleophile followed by a second nucleophilic attack on the spirocyclopropane group. Inside cells, unstable active metabolites of illudin cause the formation of as yet poorly characterised DNA lesions. Illudin-induced lesions are exceptional in that they appear to be ignored by all of the known global repair systems, and can only be repaired when trapped in stalled replication or transcription complexes.",
+      "Reference": "DOI: 10.1016/s1568-7864(02)00166-0",
+      "ExternalLink": "DOI: 10.1021/acs.jnatprod.5b00500"
+    },
+    {
+      "mechanism_id": "51",
+      "toxicity_id": "177",
+      "Description": "Illudin M belongs to a class of toxins called illudins. Illudins were found to be able to initiate DNA breakage in the cell through a two-step reaction initiated by a Michael-type addition of a thiol bionucleophile followed by a second nucleophilic attack on the spirocyclopropane group. Inside cells, unstable active metabolites of illudin cause the formation of as yet poorly characterised DNA lesions. Illudin-induced lesions are exceptional in that they appear to be ignored by all of the known global repair systems, and can only be repaired when trapped in stalled replication or transcription complexes.",
+      "Reference": "DOI: 10.1016/s1568-7864(02)00166-0",
+      "ExternalLink": "DOI: 10.1021/acs.jnatprod.5b00500"
+    },
+    {
+      "mechanism_id": "52",
+      "toxicity_id": "314",
+      "Description": "Roridin D is a trichothecene, which are known protein synthesis inhibitors. Trichothecenes specifically bind to the ribosome and interfere with the active site of peptidyl transferase, inhibiting the initiation, elongation, or termination steps of protein synthesis. Additionally, binding to ribosomes is thought to activate proteins in downstream signalling events related to immune response and apoptosis, such as mitogen-activated protein kinases. This is known as ribotoxic stress response. Trichothecenes may also induce some alterations in membrane structure, leading to increased lipid peroxidation and inhibition of electron transport activity in the mitochondria. They can further induce apoptosis through generation of reactive oxygen species. Further secondary effects of trichothecenes include inhibition of RNA and DNA synthesis, and also inhibition of mitosis.",
+      "Reference": "http://www.t3db.ca/toxins/T3D3710",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "53",
+      "toxicity_id": "328",
+      "Description": "Roridin E is a trichothecene, which are known protein synthesis inhibitors. Trichothecenes specifically bind to the ribosome and interfere with the active site of peptidyl transferase, inhibiting the initiation, elongation, or termination steps of protein synthesis. Roridin E has been shown to inhibit certain receptor tyrosine kinase, including FGFR3, IGF-1R, PDGFRβ, and TrkB, which are involved in cell growth and signaling. The precise mechanism by which roridin E inhibits receptor tyrosine kinases remains unclear. However, trichothecene mycotoxins, including roridin E, are known to interfere with cellular signaling by modifying key proteins involved in phosphorylation.",
+      "Reference": "http://en.wikipedia.org/wiki/Roridin_E",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "54",
+      "toxicity_id": "345",
+      "Description": "Ustalic acid inhibited Na+,K+-ATPase; IC50 of ustalic acid against the commercially available enzyme purified from porcine cerebral cortex and the crude enzyme from mouse intestinal mucosal cells were 5.2 and 0.77 mM, respectively. In general, absorption of water from the intestines is suppressed by inhibition of intestinal Na+,K+ATPase, resulting in diarrhoea.",
+      "Reference": "DOI: 10.1039/B202607D",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "55",
+      "toxicity_id": "418",
+      "Description": "The cytotoxicity of (9E)-8-Oxo-9-octadecenoic acid (ACI) was found to be mediated by apoptosis associated with caspase-3 activation.",
+      "Reference": "DOI: 10.1080/14786419.2019.1586699",
+      "ExternalLink": ""
+    },
+    {
+      "mechanism_id": "56",
+      "toxicity_id": "422",
+      "Description": "The cytotoxicity of (10E)-9-Oxo-10-octadecenoic acid (ACI) was found to be mediated by apoptosis associated with caspase-3 activation.",
+      "Reference": "DOI: 10.1080/14786419.2019.1586699",
+      "ExternalLink": ""
+    }
+  ]
+}
