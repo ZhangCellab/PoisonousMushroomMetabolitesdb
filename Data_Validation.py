@@ -2,6 +2,7 @@ import os
 import re
 import sys
 import csv
+import glob
 import json
 import argparse
 import unicodedata
@@ -128,6 +129,10 @@ REFERENCE_COLUMNS = [
     ('Toxicity_Mechanism', 'reference_id_1'),
     ('Toxicity_Mechanism', 'reference_id_2'),
 ]
+
+SDF_PROPERTIES = ['compound_id', 'common_name', 'pubchem_cid', 'cas_no',
+                  'molecular_formula', 'smiles', 'canonical_isomeric_smiles',
+                  'calculated_formula', 'source_excel_row']
 
 EXPECTED_ROWS = {'Compounds': 674, 'Taxa': 235}
 
@@ -446,9 +451,6 @@ def check_compounds(c, s, details):
     s.add(SEC, 'SMILES ↔ InChI column stereo differences', inchi_stereo,
           inchi_stereo, inchi_compared, 'REVIEW' if inchi_stereo else 'PASS',
           'InChI column and SMILES share a backbone but differ in stereo')
-    s.add(SEC, 'SDF structure parse success', 'N/A',
-          status='N/A',
-          note='this release contains no SDF file; supply *.sdf and it will be validated automatically')
     s.add(SEC, 'SMILES ↔ InChIKey backbone consistency',
           f'{n - conn_diff}/{n}', n - conn_diff, n,
           'PASS' if conn_diff == 0 else 'FAIL',
@@ -920,6 +922,143 @@ def check_admet(c, s, details):
     details['admet_issues'] = issues
     return None
 
+def check_sdf(c, s, details, base_dir):
+    SEC = 'SDF'
+    files = sorted(glob.glob(os.path.join(base_dir, '*.sdf')))
+    if not files:
+        s.add(SEC, 'SDF structure parse success', 'N/A', status='N/A',
+              note='no SDF file found in the data directory')
+        return None
+    from rdkit import Chem
+    from rdkit.Chem.rdMolDescriptors import CalcMolFormula
+    sub = {chr(0x2080 + d): str(d) for d in range(10)}
+
+    def strip_charge(f):
+        return re.sub(r'[+-]\d*$', '', f.replace(' ', ''))
+
+    by_id = {norm(r['compound_id']): r for _, r in c['Compounds'].iterrows()}
+    issues = []
+    multi = len(files) > 1
+    for path in files:
+        fname = os.path.basename(path)
+        pre = f'SDF [{fname}] ' if multi else 'SDF '
+        san = Chem.SDMolSupplier(path, sanitize=True, removeHs=False)
+        raw = Chem.SDMolSupplier(path, sanitize=False, removeHs=False)
+        total = parsed = compared = 0
+        backbone = stereo_diff = 0
+        unknown_ids = []
+        seen = set()
+        formula_bad = []
+        prop_smi_bad = []
+        prop_missing = collections.Counter()
+        dims = collections.Counter()
+        for m, mr in zip(san, raw):
+            total += 1
+            if m is None:
+                issues.append({'file': fname, 'record': total, 'check': 'sdf_parse',
+                               'detail': 'RDKit could not sanitize this record',
+                               'value': 'parses without sanitization' if mr is not None
+                                        else 'unparseable'})
+                continue
+            parsed += 1
+            cid = ''
+            if m.HasProp('compound_id'):
+                cid = norm(m.GetProp('compound_id'))
+            elif m.GetProp('_Name'):
+                cid = norm(m.GetProp('_Name'))
+            if cid not in by_id:
+                unknown_ids.append(cid or f'record {total}')
+                issues.append({'file': fname, 'record': total, 'check': 'sdf_id',
+                               'detail': 'record id not present in Compounds',
+                               'value': cid})
+                continue
+            seen.add(cid)
+            for k in SDF_PROPERTIES:
+                if not m.HasProp(k):
+                    prop_missing[k] += 1
+            try:
+                dims['3D' if m.GetConformer().Is3D() else '2D'] += 1
+            except Exception:
+                dims['no conformer'] += 1
+            ref = Chem.MolFromSmiles(by_id[cid]['smiles'])
+            if ref is not None:
+                compared += 1
+                k_mol = Chem.MolToInchiKey(m)
+                k_ref = Chem.MolToInchiKey(ref)
+                if k_mol != k_ref:
+                    if k_mol.split('-')[0] != k_ref.split('-')[0]:
+                        backbone += 1
+                        issues.append({'file': fname, 'record': total,
+                                       'check': 'sdf_backbone',
+                                       'detail': 'SDF and Compounds.smiles differ in the backbone layer (severe)',
+                                       'value': f'{cid}: {k_mol} vs {k_ref}'})
+                    else:
+                        stereo_diff += 1
+                        issues.append({'file': fname, 'record': total,
+                                       'check': 'sdf_stereo',
+                                       'detail': 'SDF and Compounds.smiles differ in the stereo layer (same backbone)',
+                                       'value': f'{cid}: {k_mol} vs {k_ref}'})
+            calc = CalcMolFormula(m)
+            tbl = ''.join(sub.get(ch, ch) for ch in norm(by_id[cid]['molecular_formula']))
+            if strip_charge(calc) != strip_charge(tbl):
+                formula_bad.append(cid)
+                issues.append({'file': fname, 'record': total, 'check': 'sdf_formula',
+                               'detail': 'SDF structure formula does not match Compounds.molecular_formula',
+                               'value': f'{cid}: {calc} vs {tbl}'})
+            if m.HasProp('smiles'):
+                ps = Chem.MolFromSmiles(m.GetProp('smiles'))
+                if ps is not None and Chem.MolToInchiKey(ps) != Chem.MolToInchiKey(m):
+                    prop_smi_bad.append(cid)
+                    issues.append({'file': fname, 'record': total,
+                                   'check': 'sdf_prop_smiles',
+                                   'detail': 'the smiles property disagrees with the record structure',
+                                   'value': cid})
+        absent = sorted(set(by_id) - seen)
+        s.add(SEC, f'{pre}records', total, status='INFO')
+        s.add(SEC, f'{pre}record count equals Compounds row count',
+              f'{total}/{len(by_id)}', total, len(by_id),
+              'PASS' if total == len(by_id) else 'FAIL',
+              'the SDF should carry exactly one record per compound')
+        s.add(SEC, f'{pre}structure parse success', f'{parsed}/{total}', parsed, total,
+              'PASS' if parsed == total else 'FAIL',
+              'RDKit SDMolSupplier, sanitized')
+        s.add(SEC, f'{pre}record ids found in Compounds',
+              f'{len(seen)}/{len(by_id)}', len(seen), len(by_id),
+              'PASS' if not absent and not unknown_ids else 'FAIL',
+              f'{len(unknown_ids)} record(s) with an unknown id; '
+              f'{len(absent)} compound(s) absent from the SDF')
+        s.add(SEC, f'{pre}↔ Compounds structure consistency (backbone)',
+              f'{compared - backbone}/{compared}', compared - backbone, compared,
+              'PASS' if backbone == 0 else 'FAIL',
+              'canonical InChIKey comparison against Compounds.smiles')
+        s.add(SEC, f'{pre}↔ Compounds structure stereo differences', stereo_diff,
+              stereo_diff, compared, 'REVIEW' if stereo_diff else 'PASS',
+              'same backbone, different stereo assignment')
+        s.add(SEC, f'{pre}structure ↔ molecular_formula agreement',
+              f'{compared - len(formula_bad)}/{compared}',
+              compared - len(formula_bad), compared,
+              'PASS' if not formula_bad else 'FAIL',
+              'CalcMolFormula on the SDF structure vs Compounds.molecular_formula (charge notation ignored)')
+        s.add(SEC, f'{pre}embedded smiles property matches its structure',
+              f'{compared - len(prop_smi_bad)}/{compared}',
+              compared - len(prop_smi_bad), compared,
+              'PASS' if not prop_smi_bad else 'REVIEW',
+              'the smiles property inside each record vs the record structure')
+        if prop_missing:
+            detail = ', '.join(f'{k}: {v}' for k, v in prop_missing.most_common())
+            s.add(SEC, f'{pre}property completeness', len(prop_missing),
+                  len(prop_missing), len(SDF_PROPERTIES), 'REVIEW',
+                  f'records missing a declared property - {detail}')
+        else:
+            s.add(SEC, f'{pre}property completeness', f'{len(SDF_PROPERTIES)} properties',
+                  status='PASS',
+                  note='every declared property present on every record')
+        s.add(SEC, f'{pre}conformer dimensionality',
+              ', '.join(f'{k}: {v}' for k, v in sorted(dims.items())),
+              status='INFO', note='from the mol block conformer')
+    details['sdf_issues'] = issues
+    return None
+
 def main(argv=None):
     setup_stdout()
     parser = argparse.ArgumentParser(
@@ -983,6 +1122,8 @@ def main(argv=None):
     check_toxicology(c, s, details)
     print_section('E. ADMET')
     check_admet(c, s, details)
+    print_section('F. SDF')
+    check_sdf(c, s, details, args.base_dir)
     print_section('Output')
     summary_path = os.path.join(out_dir, 'validation_summary.csv')
     write_csv(s.rows, summary_path)
@@ -995,6 +1136,7 @@ def main(argv=None):
         'admet_issues': 'validation_admet_issues.csv',
         'duplicate_structures': 'validation_duplicate_structures.csv',
         'admet_ranges': 'validation_admet_endpoint_ranges.csv',
+        'sdf_issues': 'validation_sdf_issues.csv',
     }
     for key, fname in mapping.items():
         write_csv(details.get(key, []), os.path.join(detail_dir, fname))
