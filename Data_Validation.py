@@ -49,13 +49,13 @@ SCHEMA = {
         'file': 'Compounds.tsv',
         'cols': ['compound_id', 'common_name', 'synonyms', 'compound_class',
                  'pubchem_cid', 'chebi_id', 'cas_no', 'molecular_formula',
-                 'smiles', 'inchi', 'inchi_key'],
+                 'smiles', 'inchi', 'inchi_key', 'references'],
     },
     'Taxa': {
         'file': 'Taxa.tsv',
         'cols': ['taxon_id', 'scientific_name', 'ncbi_taxonomy_id',
                  'phylum_name', 'class_name', 'order_name', 'family_name',
-                 'genus_name'],
+                 'genus_name', 'references'],
     },
     'ADMET_Predictions': {
         'file': 'ADMET_Predictions.tsv',
@@ -69,36 +69,42 @@ SCHEMA = {
                  'variability_type', 'toxicity_unit', 'exposure_duration_h',
                  'exposure_value', 'exposure_unit', 'administration_route',
                  'assay_method', 'test_system', 'effect_description',
-                 'reported_result', 'toxicity_mechanism_id', 'reference_id'],
+                 'reported_result', 'toxicity_mechanism_id', 'reference_id',
+                 'references'],
     },
     'Toxicity_Mechanism': {
         'file': 'Toxicity_Mechanism.tsv',
         'cols': ['toxicity_mechanism_id', 'compound_id', 'description',
-                 'reference_id_1', 'reference_id_2'],
+                 'reference_id_1', 'reference_id_2', 'references'],
     },
     'Bioactivity_Target': {
         'file': 'Bioactivity_Target.tsv',
         'cols': ['bioactivity_id', 'compound_id', 'target_name', 'action_mode',
                  'activity_metric', 'result_type', 'value_relation',
                  'activity_value', 'activity_unit', 'activity_result',
-                 'target_species', 'reported_result', 'reference_id'],
+                 'target_species', 'reported_result', 'reference_id',
+                 'references'],
     },
     'Compound_Species_Evidence': {
         'file': 'Compound_Species_Evidence.tsv',
-        'cols': ['evidence_id', 'compound_id', 'taxon_id', 'reference_id'],
+        'cols': ['evidence_id', 'compound_id', 'taxon_id', 'reference_id',
+                 'references'],
     },
-    'Referrences': {
-        'file': 'Referrences.tsv',
+    'References': {
+        'file': 'References.tsv',
         'cols': ['reference_id', 'reference_type', 'reference_identifier',
                  'reference_url'],
     },
 }
 
+# 旧数据包沿用了拼写错误的文件名；仍可读取，但会记一条 REVIEW。
+LEGACY_FILE_ALIASES = {'References.tsv': ['Referrences.tsv']}
+
 PK = {'Compounds': 'compound_id', 'Taxa': 'taxon_id',
       'Toxicity': 'toxicity_id', 'Toxicity_Mechanism': 'toxicity_mechanism_id',
       'Bioactivity_Target': 'bioactivity_id',
       'Compound_Species_Evidence': 'evidence_id',
-      'ADMET_Predictions': 'compound_id', 'Referrences': 'reference_id'}
+      'ADMET_Predictions': 'compound_id', 'References': 'reference_id'}
 
 PK_RE = {'compound_id': r'^COM\d{6}$', 'taxon_id': r'^TAX\d{6}$',
          'toxicity_id': r'^TOX\d{8}$',
@@ -166,6 +172,17 @@ def read_table(base_dir, name, schema_issues):
     spec = SCHEMA[name]
     path = os.path.join(base_dir, spec['file'])
     if not os.path.exists(path):
+        for alt in LEGACY_FILE_ALIASES.get(spec['file'], []):
+            alt_path = os.path.join(base_dir, alt)
+            if os.path.exists(alt_path):
+                schema_issues.append({
+                    'table': name, 'issue': 'legacy_filename',
+                    'detail': f'{spec["file"]} not found; read legacy name {alt}',
+                })
+                print(f"  ⚠ {spec['file']} not found; read legacy name {alt}")
+                path = alt_path
+                break
+    if not os.path.exists(path):
         print(f"  error: file not found: {path}")
         schema_issues.append({'table': name, 'issue': 'file_missing',
                               'detail': path})
@@ -197,16 +214,24 @@ def read_table(base_dir, name, schema_issues):
     data = rows[1:]
     missing = [c for c in cols if c not in header]
     extra = [c for c in header if c not in cols]
-    if missing or extra:
+    if missing:
+        detail = f'missing {missing}'
+        if extra:
+            detail += f' / extra {extra}'
         schema_issues.append({
             'table': name, 'issue': 'column_mismatch',
-            'detail': f'missing {missing} / extra {extra}',
+            'detail': detail,
         })
         print(f"  ✗ {spec['file']}: header does not match the declaration")
-        if missing:
-            print(f"      missing columns: {missing}")
+        print(f"      missing columns: {missing}")
         if extra:
-            print(f"      extra columns: {extra}")
+            print(f"      extra columns (ignored): {extra}")
+    elif extra:
+        schema_issues.append({
+            'table': name, 'issue': 'extra_columns',
+            'detail': f'extra columns ignored: {extra}',
+        })
+        print(f"  ⚠ {spec['file']}: extra columns ignored: {extra}")
     elif header != cols:
         schema_issues.append({
             'table': name, 'issue': 'column_order',
@@ -608,7 +633,7 @@ def check_relational(c, s, details):
     compound_ids = set(norm(v) for v in c['Compounds']['compound_id'])
     taxon_ids = set(norm(v) for v in c['Taxa']['taxon_id'])
     mech_ids = set(norm(v) for v in c['Toxicity_Mechanism']['toxicity_mechanism_id'])
-    ref_ids = set(norm(v) for v in c['Referrences']['reference_id'])
+    ref_ids = set(norm(v) for v in c['References']['reference_id'])
     FK = [
         ('Toxicity', 'compound_id', compound_ids, 'compound_id'),
         ('Toxicity', 'toxicity_mechanism_id', mech_ids, 'mechanism_id'),
@@ -640,7 +665,7 @@ def check_relational(c, s, details):
         ref_bad += len(bad)
         for v in sorted(set(bad))[:100]:
             issues.append({'table': tname, 'check': f'fk_{col}',
-                           'key': v, 'detail': 'REF id not present in Referrences'})
+                           'key': v, 'detail': 'REF id not present in References'})
     s.add(SEC, 'invalid compound_id', counts['compound_id'],
           status='PASS' if counts['compound_id'] == 0 else 'FAIL',
           note='orphan compound_id in Toxicity / Bioactivity / Evidence / Mechanism / ADMET')
@@ -652,7 +677,7 @@ def check_relational(c, s, details):
           note='orphan Toxicity.toxicity_mechanism_id (nullable)')
     s.add(SEC, 'invalid reference IDs', ref_bad,
           status='PASS' if ref_bad == 0 else 'FAIL',
-          note='whether every reference column resolves in Referrences')
+          note='whether every reference column resolves in References')
     ev = c['Compound_Species_Evidence']
     triples = [(norm(r['compound_id']), norm(r['taxon_id']), norm(r['reference_id']))
                for _, r in ev.iterrows()]
@@ -666,10 +691,10 @@ def check_relational(c, s, details):
                        'check': 'duplicate_triple',
                        'key': ' | '.join(k), 'detail': f'appears {nn} times'})
     dupr = {k: v for k, v in collections.Counter(
-        norm(x) for x in c['Referrences']['reference_id']).items() if v > 1}
+        norm(x) for x in c['References']['reference_id']).items() if v > 1}
     s.add(SEC, 'duplicate reference IDs', len(dupr),
           status='PASS' if not dupr else 'FAIL',
-          note='duplicate primary keys in Referrences')
+          note='duplicate primary keys in References')
     details['relational_issues'] = issues
     return None
 
@@ -677,7 +702,7 @@ def check_toxicology(c, s, details):
     SEC = 'Toxicology'
     df = c['Toxicity']
     n = len(df)
-    ref_ids = set(norm(v) for v in c['Referrences']['reference_id'])
+    ref_ids = set(norm(v) for v in c['References']['reference_id'])
     issues = []
     s.add(SEC, 'toxicity records', n, status='INFO')
     have_ref = sum(1 for v in df['reference_id'] if not is_null(v))
@@ -685,9 +710,9 @@ def check_toxicology(c, s, details):
                      if not is_null(v) and norm(v) in ref_ids)
     s.add(SEC, 'reference completeness', f'{have_ref}/{n}', have_ref, n,
           'PASS' if have_ref == n else 'FAIL', 'reference_id non-null rate')
-    s.add(SEC, 'reference resolvable in Referrences', f'{resolvable}/{n}',
+    s.add(SEC, 'reference resolvable in References', f'{resolvable}/{n}',
           resolvable, n, 'PASS' if resolvable == n else 'FAIL',
-          'whether the REF id can be found in the Referrences table')
+          'whether the REF id can be found in the References table')
     for _, r in df.iterrows():
         v = r['reference_id']
         if is_null(v):
@@ -1105,9 +1130,11 @@ def main(argv=None):
           f"{len(SCHEMA) - len({i['table'] for i in fatal})}/{len(SCHEMA)}",
           len(SCHEMA) - len({i['table'] for i in fatal}), len(SCHEMA),
           'PASS' if not fatal else 'FAIL',
-          'file headers checked column by column against the declaration in validation.py')
+          'every declared column must be present; missing columns are fatal, '
+          'unexpected extra columns are reported separately as REVIEW')
     for i in schema_issues:
-        if i['issue'] in ('column_order', 'ragged_rows'):
+        if i['issue'] in ('column_order', 'ragged_rows', 'extra_columns',
+                          'legacy_filename'):
             s.add('Schema', f"{i['table']}: {i['issue']}", i['detail'],
                   status='REVIEW')
     for i in schema_issues:
